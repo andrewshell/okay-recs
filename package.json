@@ -1,5 +1,5 @@
 {
-  "name": "okay-recs",
+  "name": "@andrewshell/okay-recs",
   "version": "0.1.0",
   "description": "An okay way to find user recommendations and similar users",
   "main": "index.js",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/andrewshell/okay-recs/issues"
   },
-  "homepage": "https://github.com/andrewshell/okay-recs#readme"
+  "homepage": "https://github.com/andrewshell/okay-recs#readme",
+  "directories": {
+    "example": "example"
+  }
 }
