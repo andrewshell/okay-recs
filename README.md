@@ -1,5 +1,7 @@
 # Okay Recommendations
 
+[![NPM](https://nodei.co/npm/@andrewshell/okay-recs.png)](https://nodei.co/npm/@andrewshell/okay-recs/)
+
 ## User Recommendations
 
 Takes a structure of users and what they've rated various programs and find
@@ -21,7 +23,7 @@ Confidence is the number of program matches that contributed to that rating.
 There is a full example in example folder.
 
 ```js
-const okayRecs = require('okay-recs');
+const okayRecs = require('@andrewshell/okay-recs');
 
 // Source of all user ratings in system.
 const allUserRatings = {
