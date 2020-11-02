@@ -25,6 +25,7 @@ module.exports = {
     programScores,
     similarUsers,
     userRecommendations,
+    _bingerec
 }
 
 let ratingKey = function(rating) {
@@ -34,7 +35,30 @@ let ratingKey = function(rating) {
 function setRatingKey(newRatingKey) {
     if ('function' === typeof newRatingKey) {
         ratingKey = newRatingKey;
+    } else {
+        ratingKey = function(rating) {
+            return rating;
+        };
     }
+}
+
+// This provides backwards compatability for BingeWorthy
+function _bingerec(allUserRatings) {
+    // Fuzzy ranking for BingeWorthy
+    setRatingKey(function (rating) {
+        if (1 < rating) {
+            return 'likes';
+        }
+        return 'dislikes';
+    });
+
+    const allProgramScores = programScores(allUserRatings);
+    const allUserRecommendations = userRecommendations(allProgramScores, allUserRatings);
+
+    // Reset default ranking
+    setRatingKey(null);
+
+    return allUserRecommendations;
 }
 
 function programScores(allUserRatings) {

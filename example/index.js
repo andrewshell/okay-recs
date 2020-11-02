@@ -13,12 +13,12 @@ const subUserRatings = {
 // Intermediate data structure used for userRecommendations.
 // Should be cached.
 const allProgramScores = okayRecs.programScores(allUserRatings);
-fs.writeFileSync(__dirname + '/programScores.json', JSON.stringify(allProgramScores, null, 4));
+fs.writeFileSync(__dirname + '/allProgramScores.json', JSON.stringify(allProgramScores, null, 4));
 
 // What programs are the users most likely to like?
 const subUserRecommendations = okayRecs.userRecommendations(allProgramScores, subUserRatings);
-fs.writeFileSync(__dirname + '/userRecommendations.json', JSON.stringify(subUserRecommendations, null, 4));
+fs.writeFileSync(__dirname + '/subUserRecommendations.json', JSON.stringify(subUserRecommendations, null, 4));
 
 // What other users is this user similar to?
 const subUserSimilarUsers = okayRecs.similarUsers(allUserRatings, subUserRatings);
-fs.writeFileSync(__dirname + '/similarUsers.json', JSON.stringify(subUserSimilarUsers, null, 4));
+fs.writeFileSync(__dirname + '/subUserSimilarUsers.json', JSON.stringify(subUserSimilarUsers, null, 4));
