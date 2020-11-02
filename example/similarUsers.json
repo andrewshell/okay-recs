@@ -1,0 +1,2534 @@
+{
+    "user10": [
+        {
+            "screenname": "user23",
+            "rating": 31,
+            "confidence": 28
+        },
+        {
+            "screenname": "user85",
+            "rating": 31,
+            "confidence": 24
+        },
+        {
+            "screenname": "user65",
+            "rating": 30,
+            "confidence": 22
+        },
+        {
+            "screenname": "user123",
+            "rating": 29,
+            "confidence": 22
+        },
+        {
+            "screenname": "user139",
+            "rating": 29,
+            "confidence": 21
+        },
+        {
+            "screenname": "user14",
+            "rating": 29,
+            "confidence": 20
+        },
+        {
+            "screenname": "user82",
+            "rating": 28,
+            "confidence": 25
+        },
+        {
+            "screenname": "user128",
+            "rating": 27,
+            "confidence": 20
+        },
+        {
+            "screenname": "user204",
+            "rating": 26,
+            "confidence": 21
+        },
+        {
+            "screenname": "user106",
+            "rating": 26,
+            "confidence": 21
+        },
+        {
+            "screenname": "user31",
+            "rating": 25,
+            "confidence": 20
+        },
+        {
+            "screenname": "user239",
+            "rating": 25,
+            "confidence": 17
+        },
+        {
+            "screenname": "user181",
+            "rating": 25,
+            "confidence": 17
+        },
+        {
+            "screenname": "user53",
+            "rating": 25,
+            "confidence": 14
+        },
+        {
+            "screenname": "user78",
+            "rating": 24,
+            "confidence": 19
+        },
+        {
+            "screenname": "user140",
+            "rating": 24,
+            "confidence": 18
+        },
+        {
+            "screenname": "user133",
+            "rating": 24,
+            "confidence": 15
+        },
+        {
+            "screenname": "user0",
+            "rating": 23,
+            "confidence": 19
+        },
+        {
+            "screenname": "user129",
+            "rating": 23,
+            "confidence": 18
+        },
+        {
+            "screenname": "user84",
+            "rating": 23,
+            "confidence": 18
+        },
+        {
+            "screenname": "user21",
+            "rating": 23,
+            "confidence": 17
+        },
+        {
+            "screenname": "user74",
+            "rating": 23,
+            "confidence": 16
+        },
+        {
+            "screenname": "user387",
+            "rating": 23,
+            "confidence": 15
+        },
+        {
+            "screenname": "user281",
+            "rating": 23,
+            "confidence": 15
+        },
+        {
+            "screenname": "user138",
+            "rating": 22,
+            "confidence": 21
+        },
+        {
+            "screenname": "user81",
+            "rating": 22,
+            "confidence": 21
+        },
+        {
+            "screenname": "user57",
+            "rating": 22,
+            "confidence": 21
+        },
+        {
+            "screenname": "user137",
+            "rating": 22,
+            "confidence": 20
+        },
+        {
+            "screenname": "user68",
+            "rating": 22,
+            "confidence": 18
+        },
+        {
+            "screenname": "user24",
+            "rating": 22,
+            "confidence": 18
+        },
+        {
+            "screenname": "user7",
+            "rating": 22,
+            "confidence": 16
+        },
+        {
+            "screenname": "user172",
+            "rating": 22,
+            "confidence": 15
+        },
+        {
+            "screenname": "user178",
+            "rating": 22,
+            "confidence": 14
+        },
+        {
+            "screenname": "user41",
+            "rating": 21,
+            "confidence": 13
+        },
+        {
+            "screenname": "user118",
+            "rating": 20,
+            "confidence": 17
+        },
+        {
+            "screenname": "user253",
+            "rating": 20,
+            "confidence": 16
+        },
+        {
+            "screenname": "user282",
+            "rating": 20,
+            "confidence": 15
+        },
+        {
+            "screenname": "user206",
+            "rating": 20,
+            "confidence": 15
+        },
+        {
+            "screenname": "user5",
+            "rating": 20,
+            "confidence": 14
+        },
+        {
+            "screenname": "user127",
+            "rating": 19,
+            "confidence": 18
+        },
+        {
+            "screenname": "user50",
+            "rating": 19,
+            "confidence": 18
+        },
+        {
+            "screenname": "user165",
+            "rating": 19,
+            "confidence": 17
+        },
+        {
+            "screenname": "user132",
+            "rating": 19,
+            "confidence": 15
+        },
+        {
+            "screenname": "user122",
+            "rating": 19,
+            "confidence": 15
+        },
+        {
+            "screenname": "user71",
+            "rating": 19,
+            "confidence": 15
+        },
+        {
+            "screenname": "user111",
+            "rating": 19,
+            "confidence": 14
+        },
+        {
+            "screenname": "user88",
+            "rating": 19,
+            "confidence": 14
+        },
+        {
+            "screenname": "user4",
+            "rating": 19,
+            "confidence": 13
+        },
+        {
+            "screenname": "user200",
+            "rating": 19,
+            "confidence": 11
+        },
+        {
+            "screenname": "user142",
+            "rating": 19,
+            "confidence": 11
+        },
+        {
+            "screenname": "user64",
+            "rating": 18,
+            "confidence": 18
+        },
+        {
+            "screenname": "user103",
+            "rating": 18,
+            "confidence": 17
+        },
+        {
+            "screenname": "user301",
+            "rating": 18,
+            "confidence": 15
+        },
+        {
+            "screenname": "user93",
+            "rating": 18,
+            "confidence": 15
+        },
+        {
+            "screenname": "user194",
+            "rating": 18,
+            "confidence": 14
+        },
+        {
+            "screenname": "user79",
+            "rating": 18,
+            "confidence": 14
+        },
+        {
+            "screenname": "user75",
+            "rating": 18,
+            "confidence": 14
+        },
+        {
+            "screenname": "user6",
+            "rating": 18,
+            "confidence": 14
+        },
+        {
+            "screenname": "user186",
+            "rating": 18,
+            "confidence": 13
+        },
+        {
+            "screenname": "user80",
+            "rating": 18,
+            "confidence": 13
+        },
+        {
+            "screenname": "user9",
+            "rating": 18,
+            "confidence": 13
+        },
+        {
+            "screenname": "user162",
+            "rating": 18,
+            "confidence": 12
+        },
+        {
+            "screenname": "user42",
+            "rating": 18,
+            "confidence": 12
+        },
+        {
+            "screenname": "user33",
+            "rating": 18,
+            "confidence": 11
+        },
+        {
+            "screenname": "user8",
+            "rating": 17,
+            "confidence": 20
+        },
+        {
+            "screenname": "user70",
+            "rating": 17,
+            "confidence": 17
+        },
+        {
+            "screenname": "user312",
+            "rating": 17,
+            "confidence": 15
+        },
+        {
+            "screenname": "user105",
+            "rating": 17,
+            "confidence": 15
+        },
+        {
+            "screenname": "user335",
+            "rating": 17,
+            "confidence": 14
+        },
+        {
+            "screenname": "user213",
+            "rating": 17,
+            "confidence": 12
+        },
+        {
+            "screenname": "user59",
+            "rating": 17,
+            "confidence": 12
+        },
+        {
+            "screenname": "user44",
+            "rating": 17,
+            "confidence": 11
+        },
+        {
+            "screenname": "user217",
+            "rating": 17,
+            "confidence": 10
+        },
+        {
+            "screenname": "user185",
+            "rating": 16,
+            "confidence": 15
+        },
+        {
+            "screenname": "user47",
+            "rating": 16,
+            "confidence": 14
+        },
+        {
+            "screenname": "user199",
+            "rating": 16,
+            "confidence": 13
+        },
+        {
+            "screenname": "user175",
+            "rating": 16,
+            "confidence": 13
+        },
+        {
+            "screenname": "user62",
+            "rating": 16,
+            "confidence": 13
+        },
+        {
+            "screenname": "user342",
+            "rating": 16,
+            "confidence": 12
+        },
+        {
+            "screenname": "user189",
+            "rating": 16,
+            "confidence": 12
+        },
+        {
+            "screenname": "user170",
+            "rating": 16,
+            "confidence": 12
+        },
+        {
+            "screenname": "user95",
+            "rating": 16,
+            "confidence": 11
+        },
+        {
+            "screenname": "user180",
+            "rating": 16,
+            "confidence": 9
+        },
+        {
+            "screenname": "user16",
+            "rating": 15,
+            "confidence": 16
+        },
+        {
+            "screenname": "user176",
+            "rating": 15,
+            "confidence": 13
+        },
+        {
+            "screenname": "user167",
+            "rating": 15,
+            "confidence": 13
+        },
+        {
+            "screenname": "user386",
+            "rating": 15,
+            "confidence": 12
+        },
+        {
+            "screenname": "user207",
+            "rating": 15,
+            "confidence": 12
+        },
+        {
+            "screenname": "user164",
+            "rating": 15,
+            "confidence": 12
+        },
+        {
+            "screenname": "user36",
+            "rating": 15,
+            "confidence": 12
+        },
+        {
+            "screenname": "user72",
+            "rating": 15,
+            "confidence": 11
+        },
+        {
+            "screenname": "user124",
+            "rating": 15,
+            "confidence": 10
+        },
+        {
+            "screenname": "user28",
+            "rating": 15,
+            "confidence": 10
+        },
+        {
+            "screenname": "user12",
+            "rating": 15,
+            "confidence": 10
+        },
+        {
+            "screenname": "user131",
+            "rating": 15,
+            "confidence": 9
+        },
+        {
+            "screenname": "user91",
+            "rating": 14,
+            "confidence": 17
+        },
+        {
+            "screenname": "user240",
+            "rating": 14,
+            "confidence": 14
+        },
+        {
+            "screenname": "user173",
+            "rating": 14,
+            "confidence": 14
+        },
+        {
+            "screenname": "user98",
+            "rating": 14,
+            "confidence": 14
+        },
+        {
+            "screenname": "user113",
+            "rating": 14,
+            "confidence": 13
+        },
+        {
+            "screenname": "user292",
+            "rating": 14,
+            "confidence": 12
+        },
+        {
+            "screenname": "user230",
+            "rating": 14,
+            "confidence": 12
+        },
+        {
+            "screenname": "user169",
+            "rating": 14,
+            "confidence": 12
+        },
+        {
+            "screenname": "user333",
+            "rating": 14,
+            "confidence": 11
+        },
+        {
+            "screenname": "user242",
+            "rating": 14,
+            "confidence": 11
+        },
+        {
+            "screenname": "user220",
+            "rating": 14,
+            "confidence": 11
+        },
+        {
+            "screenname": "user296",
+            "rating": 14,
+            "confidence": 10
+        },
+        {
+            "screenname": "user250",
+            "rating": 14,
+            "confidence": 10
+        },
+        {
+            "screenname": "user114",
+            "rating": 14,
+            "confidence": 10
+        },
+        {
+            "screenname": "user52",
+            "rating": 14,
+            "confidence": 10
+        },
+        {
+            "screenname": "user26",
+            "rating": 14,
+            "confidence": 10
+        },
+        {
+            "screenname": "user300",
+            "rating": 14,
+            "confidence": 9
+        },
+        {
+            "screenname": "user363",
+            "rating": 14,
+            "confidence": 8
+        },
+        {
+            "screenname": "user143",
+            "rating": 13,
+            "confidence": 17
+        },
+        {
+            "screenname": "user135",
+            "rating": 13,
+            "confidence": 16
+        },
+        {
+            "screenname": "user89",
+            "rating": 13,
+            "confidence": 16
+        },
+        {
+            "screenname": "user63",
+            "rating": 13,
+            "confidence": 14
+        },
+        {
+            "screenname": "user102",
+            "rating": 13,
+            "confidence": 13
+        },
+        {
+            "screenname": "user130",
+            "rating": 13,
+            "confidence": 12
+        },
+        {
+            "screenname": "user61",
+            "rating": 13,
+            "confidence": 12
+        },
+        {
+            "screenname": "user45",
+            "rating": 13,
+            "confidence": 12
+        },
+        {
+            "screenname": "user291",
+            "rating": 13,
+            "confidence": 10
+        },
+        {
+            "screenname": "user168",
+            "rating": 13,
+            "confidence": 10
+        },
+        {
+            "screenname": "user147",
+            "rating": 13,
+            "confidence": 10
+        },
+        {
+            "screenname": "user117",
+            "rating": 13,
+            "confidence": 10
+        },
+        {
+            "screenname": "user18",
+            "rating": 13,
+            "confidence": 10
+        },
+        {
+            "screenname": "user317",
+            "rating": 13,
+            "confidence": 8
+        },
+        {
+            "screenname": "user56",
+            "rating": 13,
+            "confidence": 8
+        },
+        {
+            "screenname": "user293",
+            "rating": 12,
+            "confidence": 13
+        },
+        {
+            "screenname": "user313",
+            "rating": 12,
+            "confidence": 11
+        },
+        {
+            "screenname": "user276",
+            "rating": 12,
+            "confidence": 11
+        },
+        {
+            "screenname": "user222",
+            "rating": 12,
+            "confidence": 11
+        },
+        {
+            "screenname": "user51",
+            "rating": 12,
+            "confidence": 11
+        },
+        {
+            "screenname": "user235",
+            "rating": 12,
+            "confidence": 10
+        },
+        {
+            "screenname": "user223",
+            "rating": 12,
+            "confidence": 10
+        },
+        {
+            "screenname": "user338",
+            "rating": 12,
+            "confidence": 9
+        },
+        {
+            "screenname": "user265",
+            "rating": 12,
+            "confidence": 9
+        },
+        {
+            "screenname": "user227",
+            "rating": 12,
+            "confidence": 9
+        },
+        {
+            "screenname": "user197",
+            "rating": 12,
+            "confidence": 9
+        },
+        {
+            "screenname": "user360",
+            "rating": 12,
+            "confidence": 8
+        },
+        {
+            "screenname": "user294",
+            "rating": 12,
+            "confidence": 8
+        },
+        {
+            "screenname": "user228",
+            "rating": 12,
+            "confidence": 8
+        },
+        {
+            "screenname": "user203",
+            "rating": 12,
+            "confidence": 8
+        },
+        {
+            "screenname": "user159",
+            "rating": 12,
+            "confidence": 8
+        },
+        {
+            "screenname": "user69",
+            "rating": 12,
+            "confidence": 8
+        },
+        {
+            "screenname": "user30",
+            "rating": 12,
+            "confidence": 8
+        },
+        {
+            "screenname": "user158",
+            "rating": 11,
+            "confidence": 13
+        },
+        {
+            "screenname": "user209",
+            "rating": 11,
+            "confidence": 10
+        },
+        {
+            "screenname": "user76",
+            "rating": 11,
+            "confidence": 10
+        },
+        {
+            "screenname": "user46",
+            "rating": 11,
+            "confidence": 10
+        },
+        {
+            "screenname": "user43",
+            "rating": 11,
+            "confidence": 10
+        },
+        {
+            "screenname": "user208",
+            "rating": 11,
+            "confidence": 9
+        },
+        {
+            "screenname": "user150",
+            "rating": 11,
+            "confidence": 9
+        },
+        {
+            "screenname": "user108",
+            "rating": 11,
+            "confidence": 9
+        },
+        {
+            "screenname": "user1",
+            "rating": 11,
+            "confidence": 9
+        },
+        {
+            "screenname": "user432",
+            "rating": 11,
+            "confidence": 8
+        },
+        {
+            "screenname": "user48",
+            "rating": 11,
+            "confidence": 8
+        },
+        {
+            "screenname": "user120",
+            "rating": 11,
+            "confidence": 6
+        },
+        {
+            "screenname": "user110",
+            "rating": 10,
+            "confidence": 11
+        },
+        {
+            "screenname": "user372",
+            "rating": 10,
+            "confidence": 10
+        },
+        {
+            "screenname": "user280",
+            "rating": 10,
+            "confidence": 10
+        },
+        {
+            "screenname": "user163",
+            "rating": 10,
+            "confidence": 10
+        },
+        {
+            "screenname": "user19",
+            "rating": 10,
+            "confidence": 9
+        },
+        {
+            "screenname": "user3",
+            "rating": 10,
+            "confidence": 9
+        },
+        {
+            "screenname": "user366",
+            "rating": 10,
+            "confidence": 8
+        },
+        {
+            "screenname": "user336",
+            "rating": 10,
+            "confidence": 8
+        },
+        {
+            "screenname": "user255",
+            "rating": 10,
+            "confidence": 8
+        },
+        {
+            "screenname": "user225",
+            "rating": 10,
+            "confidence": 8
+        },
+        {
+            "screenname": "user196",
+            "rating": 10,
+            "confidence": 8
+        },
+        {
+            "screenname": "user174",
+            "rating": 10,
+            "confidence": 8
+        },
+        {
+            "screenname": "user136",
+            "rating": 10,
+            "confidence": 8
+        },
+        {
+            "screenname": "user17",
+            "rating": 10,
+            "confidence": 8
+        },
+        {
+            "screenname": "user384",
+            "rating": 10,
+            "confidence": 7
+        },
+        {
+            "screenname": "user264",
+            "rating": 10,
+            "confidence": 7
+        },
+        {
+            "screenname": "user232",
+            "rating": 10,
+            "confidence": 7
+        },
+        {
+            "screenname": "user224",
+            "rating": 10,
+            "confidence": 7
+        },
+        {
+            "screenname": "user193",
+            "rating": 10,
+            "confidence": 7
+        },
+        {
+            "screenname": "user161",
+            "rating": 10,
+            "confidence": 7
+        },
+        {
+            "screenname": "user443",
+            "rating": 10,
+            "confidence": 6
+        },
+        {
+            "screenname": "user369",
+            "rating": 10,
+            "confidence": 6
+        },
+        {
+            "screenname": "user316",
+            "rating": 10,
+            "confidence": 6
+        },
+        {
+            "screenname": "user248",
+            "rating": 10,
+            "confidence": 6
+        },
+        {
+            "screenname": "user87",
+            "rating": 10,
+            "confidence": 6
+        },
+        {
+            "screenname": "user60",
+            "rating": 10,
+            "confidence": 6
+        },
+        {
+            "screenname": "user389",
+            "rating": 9,
+            "confidence": 10
+        },
+        {
+            "screenname": "user212",
+            "rating": 9,
+            "confidence": 10
+        },
+        {
+            "screenname": "user257",
+            "rating": 9,
+            "confidence": 9
+        },
+        {
+            "screenname": "user238",
+            "rating": 9,
+            "confidence": 9
+        },
+        {
+            "screenname": "user234",
+            "rating": 9,
+            "confidence": 9
+        },
+        {
+            "screenname": "user210",
+            "rating": 9,
+            "confidence": 9
+        },
+        {
+            "screenname": "user362",
+            "rating": 9,
+            "confidence": 8
+        },
+        {
+            "screenname": "user330",
+            "rating": 9,
+            "confidence": 8
+        },
+        {
+            "screenname": "user290",
+            "rating": 9,
+            "confidence": 8
+        },
+        {
+            "screenname": "user237",
+            "rating": 9,
+            "confidence": 8
+        },
+        {
+            "screenname": "user125",
+            "rating": 9,
+            "confidence": 8
+        },
+        {
+            "screenname": "user349",
+            "rating": 9,
+            "confidence": 7
+        },
+        {
+            "screenname": "user244",
+            "rating": 9,
+            "confidence": 7
+        },
+        {
+            "screenname": "user233",
+            "rating": 9,
+            "confidence": 7
+        },
+        {
+            "screenname": "user126",
+            "rating": 9,
+            "confidence": 7
+        },
+        {
+            "screenname": "user83",
+            "rating": 9,
+            "confidence": 7
+        },
+        {
+            "screenname": "user339",
+            "rating": 9,
+            "confidence": 6
+        },
+        {
+            "screenname": "user328",
+            "rating": 9,
+            "confidence": 6
+        },
+        {
+            "screenname": "user314",
+            "rating": 9,
+            "confidence": 6
+        },
+        {
+            "screenname": "user252",
+            "rating": 9,
+            "confidence": 6
+        },
+        {
+            "screenname": "user54",
+            "rating": 9,
+            "confidence": 6
+        },
+        {
+            "screenname": "user112",
+            "rating": 9,
+            "confidence": 5
+        },
+        {
+            "screenname": "user304",
+            "rating": 8,
+            "confidence": 7
+        },
+        {
+            "screenname": "user298",
+            "rating": 8,
+            "confidence": 7
+        },
+        {
+            "screenname": "user297",
+            "rating": 8,
+            "confidence": 7
+        },
+        {
+            "screenname": "user283",
+            "rating": 8,
+            "confidence": 7
+        },
+        {
+            "screenname": "user266",
+            "rating": 8,
+            "confidence": 7
+        },
+        {
+            "screenname": "user245",
+            "rating": 8,
+            "confidence": 7
+        },
+        {
+            "screenname": "user153",
+            "rating": 8,
+            "confidence": 7
+        },
+        {
+            "screenname": "user148",
+            "rating": 8,
+            "confidence": 7
+        },
+        {
+            "screenname": "user104",
+            "rating": 8,
+            "confidence": 7
+        },
+        {
+            "screenname": "user439",
+            "rating": 8,
+            "confidence": 6
+        },
+        {
+            "screenname": "user284",
+            "rating": 8,
+            "confidence": 6
+        },
+        {
+            "screenname": "user256",
+            "rating": 8,
+            "confidence": 6
+        },
+        {
+            "screenname": "user214",
+            "rating": 8,
+            "confidence": 6
+        },
+        {
+            "screenname": "user160",
+            "rating": 8,
+            "confidence": 6
+        },
+        {
+            "screenname": "user90",
+            "rating": 8,
+            "confidence": 6
+        },
+        {
+            "screenname": "user365",
+            "rating": 8,
+            "confidence": 5
+        },
+        {
+            "screenname": "user337",
+            "rating": 8,
+            "confidence": 5
+        },
+        {
+            "screenname": "user275",
+            "rating": 8,
+            "confidence": 5
+        },
+        {
+            "screenname": "user116",
+            "rating": 8,
+            "confidence": 5
+        },
+        {
+            "screenname": "user107",
+            "rating": 8,
+            "confidence": 5
+        },
+        {
+            "screenname": "user15",
+            "rating": 8,
+            "confidence": 5
+        },
+        {
+            "screenname": "user322",
+            "rating": 8,
+            "confidence": 4
+        },
+        {
+            "screenname": "user94",
+            "rating": 7,
+            "confidence": 13
+        },
+        {
+            "screenname": "user357",
+            "rating": 7,
+            "confidence": 8
+        },
+        {
+            "screenname": "user351",
+            "rating": 7,
+            "confidence": 7
+        },
+        {
+            "screenname": "user66",
+            "rating": 7,
+            "confidence": 7
+        },
+        {
+            "screenname": "user370",
+            "rating": 7,
+            "confidence": 6
+        },
+        {
+            "screenname": "user329",
+            "rating": 7,
+            "confidence": 6
+        },
+        {
+            "screenname": "user289",
+            "rating": 7,
+            "confidence": 6
+        },
+        {
+            "screenname": "user246",
+            "rating": 7,
+            "confidence": 6
+        },
+        {
+            "screenname": "user216",
+            "rating": 7,
+            "confidence": 6
+        },
+        {
+            "screenname": "user205",
+            "rating": 7,
+            "confidence": 6
+        },
+        {
+            "screenname": "user157",
+            "rating": 7,
+            "confidence": 6
+        },
+        {
+            "screenname": "user451",
+            "rating": 7,
+            "confidence": 5
+        },
+        {
+            "screenname": "user358",
+            "rating": 7,
+            "confidence": 5
+        },
+        {
+            "screenname": "user331",
+            "rating": 7,
+            "confidence": 5
+        },
+        {
+            "screenname": "user315",
+            "rating": 7,
+            "confidence": 5
+        },
+        {
+            "screenname": "user288",
+            "rating": 7,
+            "confidence": 5
+        },
+        {
+            "screenname": "user287",
+            "rating": 7,
+            "confidence": 5
+        },
+        {
+            "screenname": "user270",
+            "rating": 7,
+            "confidence": 5
+        },
+        {
+            "screenname": "user254",
+            "rating": 7,
+            "confidence": 5
+        },
+        {
+            "screenname": "user236",
+            "rating": 7,
+            "confidence": 5
+        },
+        {
+            "screenname": "user155",
+            "rating": 7,
+            "confidence": 5
+        },
+        {
+            "screenname": "user454",
+            "rating": 7,
+            "confidence": 4
+        },
+        {
+            "screenname": "user371",
+            "rating": 7,
+            "confidence": 4
+        },
+        {
+            "screenname": "user318",
+            "rating": 7,
+            "confidence": 4
+        },
+        {
+            "screenname": "user286",
+            "rating": 6,
+            "confidence": 8
+        },
+        {
+            "screenname": "user277",
+            "rating": 6,
+            "confidence": 8
+        },
+        {
+            "screenname": "user355",
+            "rating": 6,
+            "confidence": 7
+        },
+        {
+            "screenname": "user179",
+            "rating": 6,
+            "confidence": 7
+        },
+        {
+            "screenname": "user310",
+            "rating": 6,
+            "confidence": 6
+        },
+        {
+            "screenname": "user299",
+            "rating": 6,
+            "confidence": 6
+        },
+        {
+            "screenname": "user221",
+            "rating": 6,
+            "confidence": 6
+        },
+        {
+            "screenname": "user96",
+            "rating": 6,
+            "confidence": 6
+        },
+        {
+            "screenname": "user58",
+            "rating": 6,
+            "confidence": 6
+        },
+        {
+            "screenname": "user367",
+            "rating": 6,
+            "confidence": 5
+        },
+        {
+            "screenname": "user341",
+            "rating": 6,
+            "confidence": 5
+        },
+        {
+            "screenname": "user327",
+            "rating": 6,
+            "confidence": 5
+        },
+        {
+            "screenname": "user395",
+            "rating": 6,
+            "confidence": 4
+        },
+        {
+            "screenname": "user368",
+            "rating": 6,
+            "confidence": 4
+        },
+        {
+            "screenname": "user356",
+            "rating": 6,
+            "confidence": 4
+        },
+        {
+            "screenname": "user319",
+            "rating": 6,
+            "confidence": 4
+        },
+        {
+            "screenname": "user295",
+            "rating": 6,
+            "confidence": 4
+        },
+        {
+            "screenname": "user274",
+            "rating": 6,
+            "confidence": 4
+        },
+        {
+            "screenname": "user177",
+            "rating": 6,
+            "confidence": 4
+        },
+        {
+            "screenname": "user151",
+            "rating": 6,
+            "confidence": 4
+        },
+        {
+            "screenname": "user149",
+            "rating": 6,
+            "confidence": 4
+        },
+        {
+            "screenname": "user146",
+            "rating": 6,
+            "confidence": 4
+        },
+        {
+            "screenname": "user115",
+            "rating": 6,
+            "confidence": 4
+        },
+        {
+            "screenname": "user97",
+            "rating": 6,
+            "confidence": 4
+        },
+        {
+            "screenname": "user475",
+            "rating": 6,
+            "confidence": 3
+        },
+        {
+            "screenname": "user467",
+            "rating": 6,
+            "confidence": 3
+        },
+        {
+            "screenname": "user430",
+            "rating": 6,
+            "confidence": 3
+        },
+        {
+            "screenname": "user321",
+            "rating": 6,
+            "confidence": 3
+        },
+        {
+            "screenname": "user152",
+            "rating": 6,
+            "confidence": 3
+        },
+        {
+            "screenname": "user39",
+            "rating": 5,
+            "confidence": 14
+        },
+        {
+            "screenname": "user285",
+            "rating": 5,
+            "confidence": 7
+        },
+        {
+            "screenname": "user99",
+            "rating": 5,
+            "confidence": 7
+        },
+        {
+            "screenname": "user422",
+            "rating": 5,
+            "confidence": 6
+        },
+        {
+            "screenname": "user401",
+            "rating": 5,
+            "confidence": 6
+        },
+        {
+            "screenname": "user397",
+            "rating": 5,
+            "confidence": 6
+        },
+        {
+            "screenname": "user347",
+            "rating": 5,
+            "confidence": 6
+        },
+        {
+            "screenname": "user243",
+            "rating": 5,
+            "confidence": 6
+        },
+        {
+            "screenname": "user417",
+            "rating": 5,
+            "confidence": 5
+        },
+        {
+            "screenname": "user392",
+            "rating": 5,
+            "confidence": 5
+        },
+        {
+            "screenname": "user226",
+            "rating": 5,
+            "confidence": 5
+        },
+        {
+            "screenname": "user190",
+            "rating": 5,
+            "confidence": 5
+        },
+        {
+            "screenname": "user183",
+            "rating": 5,
+            "confidence": 5
+        },
+        {
+            "screenname": "user182",
+            "rating": 5,
+            "confidence": 5
+        },
+        {
+            "screenname": "user460",
+            "rating": 5,
+            "confidence": 4
+        },
+        {
+            "screenname": "user426",
+            "rating": 5,
+            "confidence": 4
+        },
+        {
+            "screenname": "user411",
+            "rating": 5,
+            "confidence": 4
+        },
+        {
+            "screenname": "user399",
+            "rating": 5,
+            "confidence": 4
+        },
+        {
+            "screenname": "user381",
+            "rating": 5,
+            "confidence": 4
+        },
+        {
+            "screenname": "user364",
+            "rating": 5,
+            "confidence": 4
+        },
+        {
+            "screenname": "user261",
+            "rating": 5,
+            "confidence": 4
+        },
+        {
+            "screenname": "user259",
+            "rating": 5,
+            "confidence": 4
+        },
+        {
+            "screenname": "user187",
+            "rating": 5,
+            "confidence": 4
+        },
+        {
+            "screenname": "user119",
+            "rating": 5,
+            "confidence": 4
+        },
+        {
+            "screenname": "user67",
+            "rating": 5,
+            "confidence": 4
+        },
+        {
+            "screenname": "user457",
+            "rating": 5,
+            "confidence": 3
+        },
+        {
+            "screenname": "user425",
+            "rating": 5,
+            "confidence": 3
+        },
+        {
+            "screenname": "user419",
+            "rating": 5,
+            "confidence": 3
+        },
+        {
+            "screenname": "user413",
+            "rating": 5,
+            "confidence": 3
+        },
+        {
+            "screenname": "user385",
+            "rating": 5,
+            "confidence": 3
+        },
+        {
+            "screenname": "user353",
+            "rating": 5,
+            "confidence": 3
+        },
+        {
+            "screenname": "user352",
+            "rating": 5,
+            "confidence": 3
+        },
+        {
+            "screenname": "user262",
+            "rating": 5,
+            "confidence": 3
+        },
+        {
+            "screenname": "user251",
+            "rating": 5,
+            "confidence": 3
+        },
+        {
+            "screenname": "user249",
+            "rating": 5,
+            "confidence": 3
+        },
+        {
+            "screenname": "user201",
+            "rating": 5,
+            "confidence": 3
+        },
+        {
+            "screenname": "user77",
+            "rating": 5,
+            "confidence": 3
+        },
+        {
+            "screenname": "user55",
+            "rating": 5,
+            "confidence": 3
+        },
+        {
+            "screenname": "user37",
+            "rating": 5,
+            "confidence": 3
+        },
+        {
+            "screenname": "user463",
+            "rating": 4,
+            "confidence": 5
+        },
+        {
+            "screenname": "user379",
+            "rating": 4,
+            "confidence": 5
+        },
+        {
+            "screenname": "user458",
+            "rating": 4,
+            "confidence": 4
+        },
+        {
+            "screenname": "user410",
+            "rating": 4,
+            "confidence": 4
+        },
+        {
+            "screenname": "user218",
+            "rating": 4,
+            "confidence": 4
+        },
+        {
+            "screenname": "user134",
+            "rating": 4,
+            "confidence": 4
+        },
+        {
+            "screenname": "user453",
+            "rating": 4,
+            "confidence": 3
+        },
+        {
+            "screenname": "user429",
+            "rating": 4,
+            "confidence": 3
+        },
+        {
+            "screenname": "user421",
+            "rating": 4,
+            "confidence": 3
+        },
+        {
+            "screenname": "user403",
+            "rating": 4,
+            "confidence": 3
+        },
+        {
+            "screenname": "user359",
+            "rating": 4,
+            "confidence": 3
+        },
+        {
+            "screenname": "user340",
+            "rating": 4,
+            "confidence": 3
+        },
+        {
+            "screenname": "user334",
+            "rating": 4,
+            "confidence": 3
+        },
+        {
+            "screenname": "user305",
+            "rating": 4,
+            "confidence": 3
+        },
+        {
+            "screenname": "user260",
+            "rating": 4,
+            "confidence": 3
+        },
+        {
+            "screenname": "user258",
+            "rating": 4,
+            "confidence": 3
+        },
+        {
+            "screenname": "user145",
+            "rating": 4,
+            "confidence": 3
+        },
+        {
+            "screenname": "user49",
+            "rating": 4,
+            "confidence": 3
+        },
+        {
+            "screenname": "user409",
+            "rating": 4,
+            "confidence": 2
+        },
+        {
+            "screenname": "user407",
+            "rating": 4,
+            "confidence": 2
+        },
+        {
+            "screenname": "user402",
+            "rating": 4,
+            "confidence": 2
+        },
+        {
+            "screenname": "user350",
+            "rating": 4,
+            "confidence": 2
+        },
+        {
+            "screenname": "user271",
+            "rating": 4,
+            "confidence": 2
+        },
+        {
+            "screenname": "user154",
+            "rating": 3,
+            "confidence": 6
+        },
+        {
+            "screenname": "user433",
+            "rating": 3,
+            "confidence": 4
+        },
+        {
+            "screenname": "user198",
+            "rating": 3,
+            "confidence": 4
+        },
+        {
+            "screenname": "user188",
+            "rating": 3,
+            "confidence": 4
+        },
+        {
+            "screenname": "user484",
+            "rating": 3,
+            "confidence": 3
+        },
+        {
+            "screenname": "user456",
+            "rating": 3,
+            "confidence": 3
+        },
+        {
+            "screenname": "user447",
+            "rating": 3,
+            "confidence": 3
+        },
+        {
+            "screenname": "user408",
+            "rating": 3,
+            "confidence": 3
+        },
+        {
+            "screenname": "user396",
+            "rating": 3,
+            "confidence": 3
+        },
+        {
+            "screenname": "user376",
+            "rating": 3,
+            "confidence": 3
+        },
+        {
+            "screenname": "user323",
+            "rating": 3,
+            "confidence": 3
+        },
+        {
+            "screenname": "user303",
+            "rating": 3,
+            "confidence": 3
+        },
+        {
+            "screenname": "user278",
+            "rating": 3,
+            "confidence": 3
+        },
+        {
+            "screenname": "user269",
+            "rating": 3,
+            "confidence": 3
+        },
+        {
+            "screenname": "user32",
+            "rating": 3,
+            "confidence": 3
+        },
+        {
+            "screenname": "user491",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user480",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user438",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user388",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user361",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user354",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user324",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user308",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user302",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user247",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user241",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user229",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user219",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user192",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user166",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user109",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user101",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user40",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user2",
+            "rating": 3,
+            "confidence": 2
+        },
+        {
+            "screenname": "user423",
+            "rating": 2,
+            "confidence": 5
+        },
+        {
+            "screenname": "user420",
+            "rating": 2,
+            "confidence": 4
+        },
+        {
+            "screenname": "user398",
+            "rating": 2,
+            "confidence": 4
+        },
+        {
+            "screenname": "user20",
+            "rating": 2,
+            "confidence": 4
+        },
+        {
+            "screenname": "user449",
+            "rating": 2,
+            "confidence": 3
+        },
+        {
+            "screenname": "user415",
+            "rating": 2,
+            "confidence": 3
+        },
+        {
+            "screenname": "user394",
+            "rating": 2,
+            "confidence": 3
+        },
+        {
+            "screenname": "user380",
+            "rating": 2,
+            "confidence": 3
+        },
+        {
+            "screenname": "user279",
+            "rating": 2,
+            "confidence": 3
+        },
+        {
+            "screenname": "user471",
+            "rating": 2,
+            "confidence": 2
+        },
+        {
+            "screenname": "user459",
+            "rating": 2,
+            "confidence": 2
+        },
+        {
+            "screenname": "user428",
+            "rating": 2,
+            "confidence": 2
+        },
+        {
+            "screenname": "user414",
+            "rating": 2,
+            "confidence": 2
+        },
+        {
+            "screenname": "user412",
+            "rating": 2,
+            "confidence": 2
+        },
+        {
+            "screenname": "user393",
+            "rating": 2,
+            "confidence": 2
+        },
+        {
+            "screenname": "user373",
+            "rating": 2,
+            "confidence": 2
+        },
+        {
+            "screenname": "user92",
+            "rating": 2,
+            "confidence": 2
+        },
+        {
+            "screenname": "user73",
+            "rating": 2,
+            "confidence": 2
+        },
+        {
+            "screenname": "user34",
+            "rating": 2,
+            "confidence": 2
+        },
+        {
+            "screenname": "user506",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user503",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user501",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user500",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user498",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user496",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user495",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user492",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user482",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user473",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user465",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user442",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user418",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user416",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user406",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user405",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user383",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user346",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user345",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user332",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user326",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user325",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user320",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user311",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user309",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user263",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user202",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user171",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user144",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user86",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user35",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user22",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user13",
+            "rating": 2,
+            "confidence": 1
+        },
+        {
+            "screenname": "user400",
+            "rating": 1,
+            "confidence": 3
+        },
+        {
+            "screenname": "user427",
+            "rating": 1,
+            "confidence": 2
+        },
+        {
+            "screenname": "user390",
+            "rating": 1,
+            "confidence": 2
+        },
+        {
+            "screenname": "user377",
+            "rating": 1,
+            "confidence": 2
+        },
+        {
+            "screenname": "user375",
+            "rating": 1,
+            "confidence": 2
+        },
+        {
+            "screenname": "user499",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user497",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user474",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user472",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user468",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user464",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user462",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user455",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user448",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user445",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user444",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user378",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user344",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user306",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user215",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user141",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user121",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user38",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user29",
+            "rating": 1,
+            "confidence": 1
+        },
+        {
+            "screenname": "user502",
+            "rating": 0,
+            "confidence": 1
+        },
+        {
+            "screenname": "user494",
+            "rating": 0,
+            "confidence": 1
+        },
+        {
+            "screenname": "user493",
+            "rating": 0,
+            "confidence": 1
+        },
+        {
+            "screenname": "user424",
+            "rating": 0,
+            "confidence": 1
+        },
+        {
+            "screenname": "user404",
+            "rating": 0,
+            "confidence": 1
+        },
+        {
+            "screenname": "user374",
+            "rating": 0,
+            "confidence": 1
+        },
+        {
+            "screenname": "user348",
+            "rating": 0,
+            "confidence": 1
+        },
+        {
+            "screenname": "user273",
+            "rating": 0,
+            "confidence": 1
+        },
+        {
+            "screenname": "user100",
+            "rating": 0,
+            "confidence": 1
+        },
+        {
+            "screenname": "user27",
+            "rating": 0,
+            "confidence": 1
+        },
+        {
+            "screenname": "user25",
+            "rating": 0,
+            "confidence": 1
+        },
+        {
+            "screenname": "user11",
+            "rating": 0,
+            "confidence": 1
+        },
+        {
+            "screenname": "user505",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user504",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user490",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user489",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user488",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user487",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user486",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user485",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user483",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user481",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user479",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user478",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user477",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user476",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user470",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user469",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user466",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user461",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user452",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user450",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user446",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user441",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user440",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user437",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user436",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user435",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user434",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user431",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user391",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user382",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user343",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user307",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user272",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user268",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user267",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user231",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user211",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user195",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user191",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user184",
+            "rating": 0,
+            "confidence": 0
+        },
+        {
+            "screenname": "user156",
+            "rating": 0,
+            "confidence": 0
+        }
+    ]
+}

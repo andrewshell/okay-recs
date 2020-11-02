@@ -1,5 +1,5 @@
 /*  The MIT License (MIT)
-    Copyright (c) 2014-2020 Andrew Shell
+    Copyright (c) 2020 Andrew Shell
 
     Permission is hereby granted, free of charge, to any person obtaining a copy
     of this software and associated documentation files (the "Software"), to deal
@@ -18,74 +18,85 @@
     LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
     OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
     SOFTWARE.
-
-    structured listing: http://scripting.com/listings/pagepark.html
     */
 
-module.exports = userRecommendations;
-
-function ratingKey(rating) {
-    if (1 < rating) {
-        return 'likes';
-    }
-    return 'dislikes';
+module.exports = {
+    setRatingKey,
+    programScores,
+    similarUsers,
+    userRecommendations,
 }
 
-function userRecommendations(userRatings) {
+let ratingKey = function(rating) {
+    return rating;
+}
 
-    const scores = {};
+function setRatingKey(newRatingKey) {
+    if ('function' === typeof newRatingKey) {
+        ratingKey = newRatingKey;
+    }
+}
 
-    Object.keys(userRatings).forEach((screenname) => {
-        const idprograms = Object.keys(userRatings[screenname]);
+function programScores(allUserRatings) {
+
+    const allProgramScores = {};
+
+    Object.keys(allUserRatings).forEach((screenname) => {
+        const idprograms = Object.keys(allUserRatings[screenname]);
         if (2 > idprograms.length) {
             return;
         }
 
-        idprograms.forEach((idsrc) => {
-            idprograms.forEach((iddest) => {
-                if (idsrc === iddest) {
+        idprograms.forEach((idSrc) => {
+            idprograms.forEach((idDest) => {
+                if (idSrc === idDest) {
                     return;
                 }
 
-                const rating = ratingKey(userRatings[screenname][idsrc]);
+                const rating = ratingKey(allUserRatings[screenname][idSrc]);
 
-                if (!scores[idsrc]) {
-                    scores[idsrc] = {};
+                if (!allProgramScores[idSrc]) {
+                    allProgramScores[idSrc] = {};
                 }
 
-                if (!scores[idsrc][rating]) {
-                    scores[idsrc][rating] = {};
+                if (!allProgramScores[idSrc][rating]) {
+                    allProgramScores[idSrc][rating] = {};
                 }
 
-                if (!scores[idsrc][rating][iddest]) {
-                    scores[idsrc][rating][iddest] = { score: 0, count: 0 };
+                if (!allProgramScores[idSrc][rating][idDest]) {
+                    allProgramScores[idSrc][rating][idDest] = { score: 0, count: 0 };
                 }
 
-                scores[idsrc][rating][iddest].score += userRatings[screenname][iddest];
-                scores[idsrc][rating][iddest].count++;
+                allProgramScores[idSrc][rating][idDest].score += allUserRatings[screenname][idDest];
+                allProgramScores[idSrc][rating][idDest].count++;
             });
         });
     });
 
-    return Object.keys(userRatings).reduce((userrecs, screenname) => {
-        const user = userRatings[screenname], recs = {};
+    return allProgramScores;
+}
 
-        Object.keys(user).forEach((idsrc) => {
-            const rating = ratingKey(userRatings[screenname][idsrc]);
+function userRecommendations(allProgramScores, subUserRatings) {
 
-            if (scores[idsrc][rating]) {
-                Object.keys(scores[idsrc][rating]).forEach((iddest) => {
+    return Object.keys(subUserRatings).reduce((userrecs, screenname) => {
+        const user = subUserRatings[screenname], recs = {};
+
+        Object.keys(user).forEach((idSrc) => {
+            const rating = ratingKey(subUserRatings[screenname][idSrc]);
+
+            if (allProgramScores[idSrc][rating]) {
+                Object.keys(allProgramScores[idSrc][rating]).forEach((idDest) => {
                     // Already rated
-                    if (user[iddest]) {
+                    if (user[idDest]) {
                         return;
                     }
 
-                    if (!recs[iddest]) {
-                        recs[iddest] = { idprogram: iddest, score: 0, count: 0 };
+                    if (!recs[idDest]) {
+                        recs[idDest] = { idprogram: idDest, score: 0, count: 0 };
                     }
 
-                    recs[iddest].score += scores[idsrc][rating][iddest].score;
-                    recs[iddest].count += scores[idsrc][rating][iddest].count;
+                    recs[idDest].score += allProgramScores[idSrc][rating][idDest].score;
+                    recs[idDest].count += allProgramScores[idSrc][rating][idDest].count;
                 });
             }
         });
@@ -108,6 +119,60 @@ function userRecommendations(userRatings) {
         });
 
         return userrecs;
+    }, {});
+
+}
+
+function similarUsers(allUserRatings, subUserRatings) {
+
+    return Object.keys(subUserRatings).reduce((usersims, nameDest) => {
+        const userDest = subUserRatings[nameDest], sims = {};
+
+        Object.keys(allUserRatings).forEach((nameSrc) => {
+            if (nameSrc === nameDest) {
+                // Don't rank self
+                return;
+            }
+
+            if (!sims[nameSrc]) {
+                sims[nameSrc] = { screenname: nameSrc, score: 0, count: 0 };
+            }
+
+            Object.keys(allUserRatings[nameSrc]).forEach((idSrc) => {
+                if (!userDest[idSrc]) {
+                    // user didn't rate this program
+                    return;
+                }
+
+                if (userDest[idSrc] === allUserRatings[nameSrc][idSrc]) {
+                    // Perfect match
+                    sims[nameSrc].score += 2;
+                }
+
+                if (1 === Math.abs(userDest[idSrc] - allUserRatings[nameSrc][idSrc])) {
+                    // Close match
+                    sims[nameSrc].score += 1;
+                }
+
+                sims[nameSrc].count++;
+            });
+        });
+
+        usersims[nameDest] = Object.values(sims).sort((a, b) => {
+            if (a.score === b.score) {
+                return a.count - b.count;
+            }
+
+            return a.score - b.score;
+        }).reverse().map((sim) => {
+            return {
+                screenname: sim.screenname,
+                rating: sim.score,
+                confidence: sim.count
+            }
+        });
+
+        return usersims;
     }, {});
 
 }

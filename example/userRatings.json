@@ -1,5 +1,5 @@
 {
-    "leolaporte": {
+    "user0": {
         "https://www.metacritic.com/movie/2001-a-space-odyssey": 2,
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/american-gods": 3,
@@ -83,7 +83,7 @@
         "https://www.metacritic.com/tv/weeds": 4,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "peter_politi": {
+    "user1": {
         "https://www.metacritic.com/movie/2001-a-space-odyssey": 4,
         "https://www.metacritic.com/movie/dune": 1,
         "https://www.metacritic.com/tv/alias": 1,
@@ -113,7 +113,7 @@
         "https://www.metacritic.com/tv/the-expanse": 3,
         "https://www.metacritic.com/tv/the-killing": 2
     },
-    "aeroplaneyes": {
+    "user2": {
         "https://www.metacritic.com/tv/112263": 1,
         "https://www.metacritic.com/tv/american-gods": 1,
         "https://www.metacritic.com/tv/american-horror-story": 1,
@@ -124,7 +124,7 @@
         "https://www.metacritic.com/tv/dirk-gentlys-holistic-detective-agency": 2,
         "https://www.metacritic.com/tv/stranger-things": 4
     },
-    "americanm": {
+    "user3": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/archer": 4,
@@ -146,7 +146,7 @@
         "https://www.metacritic.com/tv/transparent": 3,
         "https://www.metacritic.com/tv/true-detective": 3
     },
-    "awbjs": {
+    "user4": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/better-call-saul": 3,
@@ -185,7 +185,7 @@
         "https://www.metacritic.com/tv/vikings": 3,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "bradleybrad": {
+    "user5": {
         "https://www.metacritic.com/tv/112263": 3,
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/alias": 2,
@@ -248,7 +248,7 @@
         "https://www.metacritic.com/tv/wet-hot-american-summer-first-day-of-camp": 1,
         "https://www.metacritic.com/tv/young-sheldon": 3
     },
-    "briandlevy": {
+    "user6": {
         "https://www.metacritic.com/tv/112263": 1,
         "https://www.metacritic.com/tv/30-rock": 4,
         "https://www.metacritic.com/tv/alias": 3,
@@ -280,7 +280,7 @@
         "https://www.metacritic.com/tv/veep": 3,
         "https://www.metacritic.com/tv/weeds": 3
     },
-    "carneyweb": {
+    "user7": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/band-of-brothers": 4,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
@@ -325,7 +325,7 @@
         "https://www.metacritic.com/tv/westworld": 3,
         "https://www.metacritic.com/tv/will-grace": 3
     },
-    "cdf1982": {
+    "user8": {
         "https://www.metacritic.com/tv/112263": 1,
         "https://www.metacritic.com/tv/30-rock": 1,
         "https://www.metacritic.com/tv/alias": 1,
@@ -391,7 +391,7 @@
         "https://www.metacritic.com/tv/weeds": 2,
         "https://www.metacritic.com/tv/westworld": 1
     },
-    "chellinsky": {
+    "user9": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/archer": 3,
@@ -426,7 +426,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/trailer-park-boys": 2
     },
-    "cjhubbs": {
+    "user10": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/alias": 2,
@@ -462,10 +462,10 @@
         "https://www.metacritic.com/tv/veronica-mars": 2,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "daftmilk": {
+    "user11": {
         "https://www.metacritic.com/tv/112263": 4
     },
-    "danec": {
+    "user12": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/alias": 2,
@@ -481,10 +481,10 @@
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "danjonweb": {
+    "user13": {
         "https://www.metacritic.com/tv/112263": 2
     },
-    "davewiner": {
+    "user14": {
         "https://www.metacritic.com/tv/112263": 1,
         "https://www.metacritic.com/tv/24": 4,
         "https://www.metacritic.com/tv/30-rock": 3,
@@ -601,7 +601,7 @@
         "https://www.metacritic.com/tv/westworld": 3,
         "https://www.metacritic.com/tv/wild-wild-country": 2
     },
-    "George_Lowry": {
+    "user15": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/boardwalk-empire": 3,
         "https://www.metacritic.com/tv/borgen": 3,
@@ -618,7 +618,7 @@
         "https://www.metacritic.com/tv/the-wire": 4,
         "https://www.metacritic.com/tv/true-detective": 2
     },
-    "heyalexdaily": {
+    "user16": {
         "https://www.metacritic.com/tv/112263": 3,
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/american-gods": 1,
@@ -671,7 +671,7 @@
         "https://www.metacritic.com/tv/westworld": 3,
         "https://www.metacritic.com/tv/will-grace": 4
     },
-    "heyjeffg": {
+    "user17": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/alias": 3,
         "https://www.metacritic.com/tv/arrested-development": 3,
@@ -701,7 +701,7 @@
         "https://www.metacritic.com/tv/true-blood": 2,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "javajini": {
+    "user18": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/american-gods": 4,
         "https://www.metacritic.com/tv/angels-in-america": 2,
@@ -756,7 +756,7 @@
         "https://www.metacritic.com/tv/united-states-of-tara": 3,
         "https://www.metacritic.com/tv/weeds": 3
     },
-    "jefflang": {
+    "user19": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/arrested-development": 4,
         "https://www.metacritic.com/tv/atlanta": 3,
@@ -784,7 +784,7 @@
         "https://www.metacritic.com/tv/the-wire": 3,
         "https://www.metacritic.com/tv/will-grace": 1
     },
-    "joshelman": {
+    "user20": {
         "https://www.metacritic.com/tv/112263": 3,
         "https://www.metacritic.com/tv/big-little-lies": 3,
         "https://www.metacritic.com/tv/devs": 3,
@@ -797,7 +797,7 @@
         "https://www.metacritic.com/tv/the-plot-against-america": 2,
         "https://www.metacritic.com/tv/watchmen-2019": 3
     },
-    "jremmers": {
+    "user21": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/angels-in-america": 3,
@@ -881,11 +881,11 @@
         "https://www.metacritic.com/tv/watchmen-2019": 3,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "jrmchale": {
+    "user22": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/american-gods": 2
     },
-    "jsavin": {
+    "user23": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/24": 1,
         "https://www.metacritic.com/tv/30-rock": 3,
@@ -1086,7 +1086,7 @@
         "https://www.metacritic.com/tv/wilfred-australia": 3,
         "https://www.metacritic.com/tv/will-grace": 1
     },
-    "jswright61": {
+    "user24": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/ballers": 2,
@@ -1156,10 +1156,10 @@
         "https://www.metacritic.com/tv/veep": 1,
         "https://www.metacritic.com/tv/weeds": 3
     },
-    "keef": {
+    "user25": {
         "https://www.metacritic.com/tv/112263": 0
     },
-    "LonelyBob": {
+    "user26": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/american-horror-story": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
@@ -1193,10 +1193,10 @@
         "https://www.metacritic.com/tv/true-blood": 3,
         "https://www.metacritic.com/tv/true-detective": 2
     },
-    "lorca": {
+    "user27": {
         "https://www.metacritic.com/tv/112263": 4
     },
-    "matt": {
+    "user28": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 2,
         "https://www.metacritic.com/tv/better-call-saul": 3,
@@ -1234,10 +1234,10 @@
         "https://www.metacritic.com/tv/veep": 2,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "MattieTK": {
+    "user29": {
         "https://www.metacritic.com/tv/112263": 3
     },
-    "mattsayward": {
+    "user30": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/atlanta": 3,
         "https://www.metacritic.com/tv/big-little-lies": 3,
@@ -1269,7 +1269,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2,
         "https://www.metacritic.com/tv/veep": 4
     },
-    "mediahunter": {
+    "user31": {
         "https://www.metacritic.com/tv/112263": 3,
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/alias": 2,
@@ -1339,12 +1339,12 @@
         "https://www.metacritic.com/tv/weeds": 2,
         "https://www.metacritic.com/tv/westworld": 1
     },
-    "merubin": {
+    "user32": {
         "https://www.metacritic.com/tv/112263": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/doctor-who": 3
     },
-    "MichaelGrover": {
+    "user33": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
@@ -1373,14 +1373,14 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2,
         "https://www.metacritic.com/tv/vikings": 2
     },
-    "nealcampbell": {
+    "user34": {
         "https://www.metacritic.com/tv/112263": 3,
         "https://www.metacritic.com/tv/30-rock": 2
     },
-    "nicolasfurno": {
+    "user35": {
         "https://www.metacritic.com/tv/112263": 2
     },
-    "paul_roberts": {
+    "user36": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/30-rock": 4,
         "https://www.metacritic.com/tv/alias": 3,
@@ -1411,7 +1411,7 @@
         "https://www.metacritic.com/tv/the-wire": 4,
         "https://www.metacritic.com/tv/true-detective": 3
     },
-    "sdanthine": {
+    "user37": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/dirk-gentlys-holistic-detective-agency": 3,
         "https://www.metacritic.com/tv/friends": 2,
@@ -1427,10 +1427,10 @@
         "https://www.metacritic.com/tv/the-office": 2,
         "https://www.metacritic.com/tv/true-detective": 2
     },
-    "seanwstewart": {
+    "user38": {
         "https://www.metacritic.com/tv/112263": 1
     },
-    "sexmahoney": {
+    "user39": {
         "https://www.metacritic.com/tv/112263": 0,
         "https://www.metacritic.com/tv/30-rock": 1,
         "https://www.metacritic.com/tv/american-gods": 1,
@@ -1505,13 +1505,13 @@
         "https://www.metacritic.com/tv/will-grace": 0,
         "https://www.metacritic.com/tv/youre-the-worst": 2
     },
-    "shauntrennery": {
+    "user40": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/black-mirror": 4,
         "https://www.metacritic.com/tv/halt-and-catch-fire": 3,
         "https://www.metacritic.com/tv/narcos": 3
     },
-    "stevetranby": {
+    "user41": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/arrested-development": 4,
@@ -1542,7 +1542,7 @@
         "https://www.metacritic.com/tv/veep": 3,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "switters": {
+    "user42": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
@@ -1580,7 +1580,7 @@
         "https://www.metacritic.com/tv/true-detective": 3,
         "https://www.metacritic.com/tv/under-the-dome": 2
     },
-    "wayseventech": {
+    "user43": {
         "https://www.metacritic.com/tv/112263": 1,
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/american-horror-story": 1,
@@ -1627,7 +1627,7 @@
         "https://www.metacritic.com/tv/vikings": 4,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "wingtfootball": {
+    "user44": {
         "https://www.metacritic.com/tv/112263": 2,
         "https://www.metacritic.com/tv/band-of-brothers": 4,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
@@ -1649,7 +1649,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "ZakWinnick": {
+    "user45": {
         "https://www.metacritic.com/tv/112263": 3,
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/american-horror-story": 3,
@@ -1702,7 +1702,7 @@
         "https://www.metacritic.com/tv/weeds": 4,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "2nord2": {
+    "user46": {
         "https://www.metacritic.com/tv/13-reasons-why": 1,
         "https://www.metacritic.com/tv/avenue-5": 1,
         "https://www.metacritic.com/tv/barry": 1,
@@ -1769,7 +1769,7 @@
         "https://www.metacritic.com/tv/under-the-dome": 1,
         "https://www.metacritic.com/tv/westworld": 1
     },
-    "markphip": {
+    "user47": {
         "https://www.metacritic.com/tv/13-reasons-why": 1,
         "https://www.metacritic.com/tv/30-rock": 1,
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 1,
@@ -1865,7 +1865,7 @@
         "https://www.metacritic.com/tv/will-grace": 1,
         "https://www.metacritic.com/tv/young-sheldon": 2
     },
-    "monberl": {
+    "user48": {
         "https://www.metacritic.com/tv/13-reasons-why": 2,
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/black-mirror": 3,
@@ -1904,7 +1904,7 @@
         "https://www.metacritic.com/tv/true-detective": 2,
         "https://www.metacritic.com/tv/youre-the-worst": 2
     },
-    "mvuijlst": {
+    "user49": {
         "https://www.metacritic.com/tv/13-reasons-why": 1,
         "https://www.metacritic.com/tv/archer": 2,
         "https://www.metacritic.com/tv/avatar-the-last-airbender": 3,
@@ -1916,7 +1916,7 @@
         "https://www.metacritic.com/tv/brooklyn-nine-nine": 2,
         "https://www.metacritic.com/tv/designated-survivor": 3
     },
-    "nakedjen": {
+    "user50": {
         "https://www.metacritic.com/tv/13-reasons-why": 1,
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 2,
@@ -2002,7 +2002,7 @@
         "https://www.metacritic.com/tv/wild-wild-country": 4,
         "https://www.metacritic.com/tv/will-grace": 1
     },
-    "Whim": {
+    "user51": {
         "https://www.metacritic.com/tv/13-reasons-why": 2,
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/better-things": 3,
@@ -2062,7 +2062,7 @@
         "https://www.metacritic.com/tv/under-the-dome": 2,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "_subnet": {
+    "user52": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/black-mirror": 4,
@@ -2089,7 +2089,7 @@
         "https://www.metacritic.com/tv/the-newsroom": 3,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "agerstein": {
+    "user53": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 2,
         "https://www.metacritic.com/tv/alias": 2,
@@ -2137,7 +2137,7 @@
         "https://www.metacritic.com/tv/will-grace": 2,
         "https://www.metacritic.com/tv/youre-the-worst": 2
     },
-    "antolo": {
+    "user54": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/black-mirror": 4,
@@ -2165,12 +2165,12 @@
         "https://www.metacritic.com/tv/westworld": 4,
         "https://www.metacritic.com/tv/will-grace": 3
     },
-    "atmasphere": {
+    "user55": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/arrested-development": 4,
         "https://www.metacritic.com/tv/breaking-bad": 4
     },
-    "axodys": {
+    "user56": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/deadwood": 2,
@@ -2199,7 +2199,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "baz1860": {
+    "user57": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 2,
         "https://www.metacritic.com/tv/altered-carbon": 1,
@@ -2314,7 +2314,7 @@
         "https://www.metacritic.com/tv/young-sheldon": 0,
         "https://www.metacritic.com/tv/youre-the-worst": 3
     },
-    "benzado": {
+    "user58": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/arrested-development": 4,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -2333,7 +2333,7 @@
         "https://www.metacritic.com/tv/the-oa": 0,
         "https://www.metacritic.com/tv/the-venture-brothers": 3
     },
-    "bobschulties": {
+    "user59": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
@@ -2358,7 +2358,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2,
         "https://www.metacritic.com/tv/veep": 3
     },
-    "brianmcc": {
+    "user60": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/ballers": 0,
         "https://www.metacritic.com/tv/black-mirror": 4,
@@ -2379,7 +2379,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 3,
         "https://www.metacritic.com/tv/weeds": 2
     },
-    "bwlng": {
+    "user61": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/better-call-saul": 3,
@@ -2419,7 +2419,7 @@
         "https://www.metacritic.com/tv/veep": 4,
         "https://www.metacritic.com/tv/weeds": 1
     },
-    "cbasturea": {
+    "user62": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/away": 1,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 2,
@@ -2470,7 +2470,7 @@
         "https://www.metacritic.com/tv/twin-peaks": 2,
         "https://www.metacritic.com/tv/will-grace": 4
     },
-    "cdin": {
+    "user63": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/archer": 3,
         "https://www.metacritic.com/tv/arrested-development": 2,
@@ -2513,7 +2513,7 @@
         "https://www.metacritic.com/tv/weeds": 2,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "cewollard": {
+    "user64": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 2,
@@ -2561,7 +2561,7 @@
         "https://www.metacritic.com/tv/weeds": 2,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "chipchristian": {
+    "user65": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/after-life": 3,
         "https://www.metacritic.com/tv/american-gods": 2,
@@ -2648,7 +2648,7 @@
         "https://www.metacritic.com/tv/westworld": 2,
         "https://www.metacritic.com/tv/will-grace": 1
     },
-    "chrisbmullins": {
+    "user66": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/black-mirror": 3,
         "https://www.metacritic.com/tv/breaking-bad": 2,
@@ -2675,7 +2675,7 @@
         "https://www.metacritic.com/tv/weeds": 4,
         "https://www.metacritic.com/tv/will-grace": 1
     },
-    "clees74": {
+    "user67": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/better-things": 3,
@@ -2695,7 +2695,7 @@
         "https://www.metacritic.com/tv/the-newsroom": 2,
         "https://www.metacritic.com/tv/the-office": 3
     },
-    "CloudScene_McD": {
+    "user68": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/american-horror-story": 3,
@@ -2743,7 +2743,7 @@
         "https://www.metacritic.com/tv/united-states-of-tara": 3,
         "https://www.metacritic.com/tv/veronica-mars": 3
     },
-    "clq": {
+    "user69": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/barry": 2,
@@ -2763,7 +2763,7 @@
         "https://www.metacritic.com/tv/veep": 3,
         "https://www.metacritic.com/tv/veronica-mars": 2
     },
-    "cshotton": {
+    "user70": {
         "https://www.metacritic.com/tv/30-rock": 4,
         "https://www.metacritic.com/tv/adventure-time": 2,
         "https://www.metacritic.com/tv/altered-carbon": 3,
@@ -2878,7 +2878,7 @@
         "https://www.metacritic.com/tv/xena-warrior-princess": 3,
         "https://www.metacritic.com/tv/yellowstone-2018": 2
     },
-    "dabeard": {
+    "user71": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/archer": 2,
         "https://www.metacritic.com/tv/arrested-development": 2,
@@ -2928,7 +2928,7 @@
         "https://www.metacritic.com/tv/veronica-mars": 3,
         "https://www.metacritic.com/tv/westworld": 1
     },
-    "danielwithmusic": {
+    "user72": {
         "https://www.metacritic.com/tv/30-rock": 1,
         "https://www.metacritic.com/tv/american-gods": 2,
         "https://www.metacritic.com/tv/archer": 1,
@@ -2958,11 +2958,11 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "davegandy": {
+    "user73": {
         "https://www.metacritic.com/tv/30-rock": 4,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4
     },
-    "davidnlevy": {
+    "user74": {
         "https://www.metacritic.com/tv/30-rock": 4,
         "https://www.metacritic.com/tv/alias": 3,
         "https://www.metacritic.com/tv/atlanta": 3,
@@ -3034,7 +3034,7 @@
         "https://www.metacritic.com/tv/will-grace": 3,
         "https://www.metacritic.com/tv/young-sheldon": 2
     },
-    "DeanLand": {
+    "user75": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/animal-kingdom": 2,
@@ -3109,7 +3109,7 @@
         "https://www.metacritic.com/tv/weeds": 3,
         "https://www.metacritic.com/tv/will-grace": 0
     },
-    "EagleWingLabs": {
+    "user76": {
         "https://www.metacritic.com/tv/30-rock": 4,
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 3,
         "https://www.metacritic.com/tv/adventure-time": 3,
@@ -3174,7 +3174,7 @@
         "https://www.metacritic.com/tv/what-we-do-in-the-shadows-2019": 4,
         "https://www.metacritic.com/tv/year-of-the-rabbit": 4
     },
-    "emissary81": {
+    "user77": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/american-gods": 2,
         "https://www.metacritic.com/tv/archer": 3,
@@ -3182,7 +3182,7 @@
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/big-love": 2
     },
-    "eprenen": {
+    "user78": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 3,
         "https://www.metacritic.com/tv/american-gods": 1,
@@ -3258,7 +3258,7 @@
         "https://www.metacritic.com/tv/vikings": 3,
         "https://www.metacritic.com/tv/young-sheldon": 2
     },
-    "ericmortensen": {
+    "user79": {
         "https://www.metacritic.com/tv/30-rock": 4,
         "https://www.metacritic.com/tv/arrested-development": 4,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 2,
@@ -3310,7 +3310,7 @@
         "https://www.metacritic.com/tv/united-states-of-tara": 2,
         "https://www.metacritic.com/tv/weeds": 3
     },
-    "espedub": {
+    "user80": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/archer": 3,
         "https://www.metacritic.com/tv/ballers": 1,
@@ -3351,7 +3351,7 @@
         "https://www.metacritic.com/tv/westworld": 3,
         "https://www.metacritic.com/tv/will-grace": 3
     },
-    "FlipperPA": {
+    "user81": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/american-horror-story": 1,
@@ -3435,7 +3435,7 @@
         "https://www.metacritic.com/tv/veronica-mars": 3,
         "https://www.metacritic.com/tv/weeds": 0
     },
-    "fozbaca": {
+    "user82": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/alias": 3,
         "https://www.metacritic.com/tv/alien-nation-1989": 2,
@@ -3607,7 +3607,7 @@
         "https://www.metacritic.com/tv/will-grace": 2,
         "https://www.metacritic.com/tv/xena-warrior-princess": 3
     },
-    "fsteele": {
+    "user83": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/atlanta": 4,
@@ -3628,7 +3628,7 @@
         "https://www.metacritic.com/tv/the-office": 3,
         "https://www.metacritic.com/tv/twin-peaks": 4
     },
-    "gerardg": {
+    "user84": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/american-gods": 2,
         "https://www.metacritic.com/tv/archer": 3,
@@ -3681,7 +3681,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 3,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "grafmal": {
+    "user85": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/archer": 2,
         "https://www.metacritic.com/tv/arrested-development": 4,
@@ -3743,11 +3743,11 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 3,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "gregbarbosa": {
+    "user86": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/mr-robot": 4
     },
-    "gruber": {
+    "user87": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/american-horror-story": 1,
         "https://www.metacritic.com/tv/curb-your-enthusiasm": 4,
@@ -3774,7 +3774,7 @@
         "https://www.metacritic.com/tv/twin-peaks": 2,
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2
     },
-    "halfacat": {
+    "user88": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 1,
         "https://www.metacritic.com/tv/adventure-time": 1,
@@ -3823,7 +3823,7 @@
         "https://www.metacritic.com/tv/weeds": 3,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "HenryFrummer": {
+    "user89": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/band-of-brothers": 4,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
@@ -3894,7 +3894,7 @@
         "https://www.metacritic.com/tv/westworld": 2,
         "https://www.metacritic.com/tv/wild-wild-country": 2
     },
-    "iamkurtg": {
+    "user90": {
         "https://www.metacritic.com/tv/30-rock": 4,
         "https://www.metacritic.com/tv/american-gods": 4,
         "https://www.metacritic.com/tv/archer": 4,
@@ -3916,7 +3916,7 @@
         "https://www.metacritic.com/tv/seinfeld": 4,
         "https://www.metacritic.com/tv/sense8": 3
     },
-    "jevdemon": {
+    "user91": {
         "https://www.metacritic.com/tv/30-rock": 1,
         "https://www.metacritic.com/tv/american-gods": 1,
         "https://www.metacritic.com/tv/arrested-development": 2,
@@ -3982,12 +3982,12 @@
         "https://www.metacritic.com/tv/under-the-dome": 1,
         "https://www.metacritic.com/tv/watchmen-2019": 1
     },
-    "johnkeegan": {
+    "user92": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/mr-robot": 3
     },
-    "johnr99a": {
+    "user93": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/american-gods": 2,
         "https://www.metacritic.com/tv/american-horror-story": 2,
@@ -4034,7 +4034,7 @@
         "https://www.metacritic.com/tv/vikings": 4,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "JohnSumser": {
+    "user94": {
         "https://www.metacritic.com/tv/30-rock": 0,
         "https://www.metacritic.com/tv/american-gods": 1,
         "https://www.metacritic.com/tv/band-of-brothers": 1,
@@ -4081,7 +4081,7 @@
         "https://www.metacritic.com/tv/veep": 3,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "jrhl97": {
+    "user95": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/arrested-development": 4,
         "https://www.metacritic.com/tv/berlin-station": 3,
@@ -4128,7 +4128,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2,
         "https://www.metacritic.com/tv/weeds": 1
     },
-    "jwbrett": {
+    "user96": {
         "https://www.metacritic.com/tv/30-rock": 4,
         "https://www.metacritic.com/tv/alias": 3,
         "https://www.metacritic.com/tv/archer": 4,
@@ -4156,7 +4156,7 @@
         "https://www.metacritic.com/tv/will-grace": 2,
         "https://www.metacritic.com/tv/young-sheldon": 2
     },
-    "k4shif": {
+    "user97": {
         "https://www.metacritic.com/tv/30-rock": 4,
         "https://www.metacritic.com/tv/archer": 3,
         "https://www.metacritic.com/tv/arrested-development": 4,
@@ -4168,7 +4168,7 @@
         "https://www.metacritic.com/tv/seinfeld": 4,
         "https://www.metacritic.com/tv/sherlock": 4
     },
-    "karlemay": {
+    "user98": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 2,
         "https://www.metacritic.com/tv/altered-carbon": 3,
@@ -4256,7 +4256,7 @@
         "https://www.metacritic.com/tv/veep": 2,
         "https://www.metacritic.com/tv/weeds": 2
     },
-    "KarlMay": {
+    "user99": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 2,
         "https://www.metacritic.com/tv/american-vandal": 3,
@@ -4285,17 +4285,17 @@
         "https://www.metacritic.com/tv/mad-men": 2,
         "https://www.metacritic.com/tv/madam-secretary": 1
     },
-    "kbolgarov": {
+    "user100": {
         "https://www.metacritic.com/tv/30-rock": 1,
         "https://www.metacritic.com/tv/billions": 2,
         "https://www.metacritic.com/tv/bloodline": 0
     },
-    "KeithinWPG": {
+    "user101": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/american-gods": 3
     },
-    "KenSmith": {
+    "user102": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/atlanta": 2,
         "https://www.metacritic.com/tv/breaking-bad": 2,
@@ -4329,7 +4329,7 @@
         "https://www.metacritic.com/tv/veep": 4,
         "https://www.metacritic.com/tv/will-grace": 2
     },
-    "kevinsonline": {
+    "user103": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/ballers": 2,
         "https://www.metacritic.com/tv/band-of-brothers": 4,
@@ -4377,7 +4377,7 @@
         "https://www.metacritic.com/tv/will-grace": 2,
         "https://www.metacritic.com/tv/z-the-beginning-of-everything": 2
     },
-    "kfkkail": {
+    "user104": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/better-call-saul": 3,
@@ -4398,7 +4398,7 @@
         "https://www.metacritic.com/tv/the-wire": 4,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "Koalemos": {
+    "user105": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/arrested-development": 4,
@@ -4436,7 +4436,7 @@
         "https://www.metacritic.com/tv/veep": 3,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "laceynwilliams": {
+    "user106": {
         "https://www.metacritic.com/tv/30-rock": 1,
         "https://www.metacritic.com/tv/american-gods": 1,
         "https://www.metacritic.com/tv/american-horror-story": 1,
@@ -4504,7 +4504,7 @@
         "https://www.metacritic.com/tv/weeds": 3,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "lamelas": {
+    "user107": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/arrested-development": 4,
         "https://www.metacritic.com/tv/band-of-brothers": 3,
@@ -4521,7 +4521,7 @@
         "https://www.metacritic.com/tv/the-wire": 4,
         "https://www.metacritic.com/tv/true-detective": 2
     },
-    "leibniz": {
+    "user108": {
         "https://www.metacritic.com/tv/30-rock": 4,
         "https://www.metacritic.com/tv/black-mirror": 3,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -4551,11 +4551,11 @@
         "https://www.metacritic.com/tv/twin-peaks": 3,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "leroncier": {
+    "user109": {
         "https://www.metacritic.com/tv/30-rock": 4,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3
     },
-    "lukehackney": {
+    "user110": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/american-horror-story": 2,
         "https://www.metacritic.com/tv/anthony-bourdain-no-reservations": 4,
@@ -4610,7 +4610,7 @@
         "https://www.metacritic.com/tv/westworld": 1,
         "https://www.metacritic.com/tv/wet-hot-american-summer-first-day-of-camp": 2
     },
-    "macstash": {
+    "user111": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/ballers": 2,
@@ -4671,7 +4671,7 @@
         "https://www.metacritic.com/tv/treme": 3,
         "https://www.metacritic.com/tv/weeds": 2
     },
-    "mbaltaks": {
+    "user112": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/black-mirror": 3,
@@ -4683,7 +4683,7 @@
         "https://www.metacritic.com/tv/silicon-valley": 3,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "mchanson": {
+    "user113": {
         "https://www.metacritic.com/tv/30-rock": 4,
         "https://www.metacritic.com/tv/american-horror-story": 2,
         "https://www.metacritic.com/tv/archer": 2,
@@ -4732,7 +4732,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 1,
         "https://www.metacritic.com/tv/veronica-mars": 4
     },
-    "mhinton": {
+    "user114": {
         "https://www.metacritic.com/tv/30-rock": 4,
         "https://www.metacritic.com/tv/archer": 3,
         "https://www.metacritic.com/tv/arrested-development": 3,
@@ -4759,7 +4759,7 @@
         "https://www.metacritic.com/tv/true-blood": 2,
         "https://www.metacritic.com/tv/veronica-mars": 2
     },
-    "MichaelSchulz": {
+    "user115": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/game-of-thrones": 4,
         "https://www.metacritic.com/tv/homeland": 2,
@@ -4771,7 +4771,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 3,
         "https://www.metacritic.com/tv/top-of-the-lake": 4
     },
-    "MisplacedHorn": {
+    "user116": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -4781,7 +4781,7 @@
         "https://www.metacritic.com/tv/firefly": 4,
         "https://www.metacritic.com/tv/game-of-thrones": 2
     },
-    "nickoneill": {
+    "user117": {
         "https://www.metacritic.com/tv/30-rock": 4,
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/american-horror-story": 0,
@@ -4803,7 +4803,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 3,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "nitinthewiz": {
+    "user118": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/alias": 3,
         "https://www.metacritic.com/tv/american-horror-story": 2,
@@ -4865,7 +4865,7 @@
         "https://www.metacritic.com/tv/veronica-mars": 4,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "oevl": {
+    "user119": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/mindhunter": 3,
         "https://www.metacritic.com/tv/mr-robot": 3,
@@ -4877,7 +4877,7 @@
         "https://www.metacritic.com/tv/the-oa": 3,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "paulliesse": {
+    "user120": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/archer": 3,
         "https://www.metacritic.com/tv/arrested-development": 3,
@@ -4905,10 +4905,10 @@
         "https://www.metacritic.com/tv/twin-peaks": 4,
         "https://www.metacritic.com/tv/wet-hot-american-summer-first-day-of-camp": 2
     },
-    "penderi": {
+    "user121": {
         "https://www.metacritic.com/tv/30-rock": 4
     },
-    "pstevemichel": {
+    "user122": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/better-call-saul": 4,
@@ -4941,7 +4941,7 @@
         "https://www.metacritic.com/tv/the-wire": 4,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "rhettford": {
+    "user123": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/american-gods": 2,
         "https://www.metacritic.com/tv/archer": 3,
@@ -5029,7 +5029,7 @@
         "https://www.metacritic.com/tv/westworld": 4,
         "https://www.metacritic.com/tv/will-grace": 0
     },
-    "rjbudke": {
+    "user124": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/archer": 3,
@@ -5051,7 +5051,7 @@
         "https://www.metacritic.com/tv/veep": 3,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "robclaisse": {
+    "user125": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/boardwalk-empire": 3,
@@ -5076,7 +5076,7 @@
         "https://www.metacritic.com/tv/weeds": 2,
         "https://www.metacritic.com/tv/will-grace": 2
     },
-    "robdiana": {
+    "user126": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/entourage": 1,
@@ -5100,7 +5100,7 @@
         "https://www.metacritic.com/tv/this-is-us": 2,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "robteix": {
+    "user127": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/american-horror-story": 2,
@@ -5166,7 +5166,7 @@
         "https://www.metacritic.com/tv/veep": 3,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "sadlerjw": {
+    "user128": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/alias": 1,
         "https://www.metacritic.com/tv/archer": 3,
@@ -5197,7 +5197,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "saradgore": {
+    "user129": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/alias": 3,
         "https://www.metacritic.com/tv/archer": 2,
@@ -5259,7 +5259,7 @@
         "https://www.metacritic.com/tv/weeds": 3,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "sarahintampa": {
+    "user130": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/big-little-lies": 3,
@@ -5303,7 +5303,7 @@
         "https://www.metacritic.com/tv/true-blood": 2,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "satxsam": {
+    "user131": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/band-of-brothers": 4,
@@ -5334,7 +5334,7 @@
         "https://www.metacritic.com/tv/the-tick-2017": 2,
         "https://www.metacritic.com/tv/the-west-wing": 4
     },
-    "ScoKop": {
+    "user132": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/band-of-brothers": 4,
         "https://www.metacritic.com/tv/billions": 2,
@@ -5370,7 +5370,7 @@
         "https://www.metacritic.com/tv/veronica-mars": 2,
         "https://www.metacritic.com/tv/weeds": 2
     },
-    "seanreiser": {
+    "user133": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 2,
         "https://www.metacritic.com/tv/arrow": 2,
@@ -5465,7 +5465,7 @@
         "https://www.metacritic.com/tv/warehouse-13": 3,
         "https://www.metacritic.com/tv/weeds": 2
     },
-    "serpentplayer": {
+    "user134": {
         "https://www.metacritic.com/tv/30-rock": 1,
         "https://www.metacritic.com/tv/downton-abbey": 2,
         "https://www.metacritic.com/tv/greys-anatomy": 2,
@@ -5477,7 +5477,7 @@
         "https://www.metacritic.com/tv/the-good-wife": 2,
         "https://www.metacritic.com/tv/the-west-wing": 3
     },
-    "someguysname": {
+    "user135": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/altered-carbon": 2,
         "https://www.metacritic.com/tv/american-horror-story": 1,
@@ -5565,7 +5565,7 @@
         "https://www.metacritic.com/tv/westworld": 3,
         "https://www.metacritic.com/tv/young-sheldon": 0
     },
-    "StoreyBookRev": {
+    "user136": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/alias": 3,
         "https://www.metacritic.com/tv/black-mirror": 2,
@@ -5593,7 +5593,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2,
         "https://www.metacritic.com/tv/under-the-dome": 2
     },
-    "stwf": {
+    "user137": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/american-gods": 1,
         "https://www.metacritic.com/tv/american-horror-story": 2,
@@ -5672,7 +5672,7 @@
         "https://www.metacritic.com/tv/weeds": 3,
         "https://www.metacritic.com/tv/westworld": 1
     },
-    "TheLensLord": {
+    "user138": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 3,
         "https://www.metacritic.com/tv/avenue-5": 1,
@@ -5777,7 +5777,7 @@
         "https://www.metacritic.com/tv/young-sheldon": 3,
         "https://www.metacritic.com/tv/youre-the-worst": 2
     },
-    "tpowell": {
+    "user139": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/anthony-bourdain-no-reservations": 2,
@@ -5889,7 +5889,7 @@
         "https://www.metacritic.com/tv/wilfred": 2,
         "https://www.metacritic.com/tv/youre-the-worst": 2
     },
-    "tropology": {
+    "user140": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 2,
         "https://www.metacritic.com/tv/american-gods": 2,
@@ -5999,10 +5999,10 @@
         "https://www.metacritic.com/tv/vikings": 2,
         "https://www.metacritic.com/tv/watchmen-2019": 4
     },
-    "trybingeworthy": {
+    "user141": {
         "https://www.metacritic.com/tv/30-rock": 2
     },
-    "turnerx5": {
+    "user142": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/band-of-brothers": 3,
@@ -6026,7 +6026,7 @@
         "https://www.metacritic.com/tv/weeds": 2,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "webology": {
+    "user143": {
         "https://www.metacritic.com/tv/30-rock": 1,
         "https://www.metacritic.com/tv/alias": 1,
         "https://www.metacritic.com/tv/american-gods": 2,
@@ -6096,17 +6096,17 @@
         "https://www.metacritic.com/tv/vikings": 3,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "yudel": {
+    "user144": {
         "https://www.metacritic.com/tv/30-rock": 3,
         "https://www.metacritic.com/tv/angels-in-america": 4,
         "https://www.metacritic.com/tv/red-dwarf": 3
     },
-    "zackshp": {
+    "user145": {
         "https://www.metacritic.com/tv/30-rock": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/breaking-bad": 4
     },
-    "_leonmika": {
+    "user146": {
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 2,
         "https://www.metacritic.com/tv/better-call-saul": 2,
         "https://www.metacritic.com/tv/black-books": 3,
@@ -6142,7 +6142,7 @@
         "https://www.metacritic.com/tv/the-office-uk": 2,
         "https://www.metacritic.com/tv/the-west-wing": 3
     },
-    "_sidWho": {
+    "user147": {
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 4,
         "https://www.metacritic.com/tv/arrested-development": 4,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
@@ -6191,7 +6191,7 @@
         "https://www.metacritic.com/tv/xena-warrior-princess": 3,
         "https://www.metacritic.com/tv/young-sheldon": 3
     },
-    "andrewshell": {
+    "user148": {
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 2,
         "https://www.metacritic.com/tv/adventure-time": 4,
         "https://www.metacritic.com/tv/archer": 1,
@@ -6285,7 +6285,7 @@
         "https://www.metacritic.com/tv/will-grace": 2,
         "https://www.metacritic.com/tv/xena-warrior-princess": 3
     },
-    "DrewKime": {
+    "user149": {
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 4,
         "https://www.metacritic.com/tv/altered-carbon": 2,
         "https://www.metacritic.com/tv/archer": 4,
@@ -6325,7 +6325,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/under-the-dome": 2
     },
-    "notjoshinu": {
+    "user150": {
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 2,
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/better-call-saul": 2,
@@ -6382,7 +6382,7 @@
         "https://www.metacritic.com/tv/will-grace": 1,
         "https://www.metacritic.com/tv/young-sheldon": 2
     },
-    "pedrolopes": {
+    "user151": {
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 3,
         "https://www.metacritic.com/tv/big-little-lies": 4,
         "https://www.metacritic.com/tv/burn-notice": 3,
@@ -6407,7 +6407,7 @@
         "https://www.metacritic.com/tv/parenthood": 4,
         "https://www.metacritic.com/tv/suits": 3
     },
-    "peter_winer": {
+    "user152": {
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 3,
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/black-mirror": 2,
@@ -6418,7 +6418,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "ReaderRJ": {
+    "user153": {
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 3,
         "https://www.metacritic.com/tv/arrow": 3,
         "https://www.metacritic.com/tv/avenue-5": 2,
@@ -6502,7 +6502,7 @@
         "https://www.metacritic.com/tv/year-of-the-rabbit": 4,
         "https://www.metacritic.com/tv/young-sheldon": 4
     },
-    "robbartlett": {
+    "user154": {
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 0,
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/baseball-a-film-by-ken-burns": 3,
@@ -6545,7 +6545,7 @@
         "https://www.metacritic.com/tv/under-the-dome": 2,
         "https://www.metacritic.com/tv/young-sheldon": 0
     },
-    "shelleyryan": {
+    "user155": {
         "https://www.metacritic.com/tv/3rd-rock-from-the-sun": 3,
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/american-horror-story": 3,
@@ -6595,11 +6595,11 @@
         "https://www.metacritic.com/tv/vikings": 4,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "emmawinerdesign": {
+    "user156": {
         "https://www.metacritic.com/tv/adventure-time": 4,
         "https://www.metacritic.com/tv/the-walking-dead": 4
     },
-    "kaot": {
+    "user157": {
         "https://www.metacritic.com/tv/adventure-time": 3,
         "https://www.metacritic.com/tv/american-gods": 2,
         "https://www.metacritic.com/tv/american-horror-story": 2,
@@ -6622,7 +6622,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 1,
         "https://www.metacritic.com/tv/watchmen-2019": 1
     },
-    "georgieEarth": {
+    "user158": {
         "https://www.metacritic.com/tv/after-life": 3,
         "https://www.metacritic.com/tv/american-gods": 1,
         "https://www.metacritic.com/tv/atlanta": 2,
@@ -6690,7 +6690,7 @@
         "https://www.metacritic.com/tv/the-wire": 4,
         "https://www.metacritic.com/tv/youre-the-worst": 4
     },
-    "stevegarfield": {
+    "user159": {
         "https://www.metacritic.com/tv/after-life": 4,
         "https://www.metacritic.com/tv/away": 4,
         "https://www.metacritic.com/tv/barry": 4,
@@ -6739,7 +6739,7 @@
         "https://www.metacritic.com/tv/this-is-us": 3,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "amitkottur": {
+    "user160": {
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/archer": 2,
         "https://www.metacritic.com/tv/chernobyl": 3,
@@ -6768,7 +6768,7 @@
         "https://www.metacritic.com/tv/the-americans": 4,
         "https://www.metacritic.com/tv/the-blacklist": 4
     },
-    "cerebus": {
+    "user161": {
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/dirk-gentlys-holistic-detective-agency": 1,
@@ -6783,7 +6783,7 @@
         "https://www.metacritic.com/tv/westworld": 2,
         "https://www.metacritic.com/tv/will-grace": 3
     },
-    "chrishawn": {
+    "user162": {
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/ballers": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 2,
@@ -6828,7 +6828,7 @@
         "https://www.metacritic.com/tv/weeds": 4,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "donhodges": {
+    "user163": {
         "https://www.metacritic.com/tv/alias": 3,
         "https://www.metacritic.com/tv/black-mirror": 2,
         "https://www.metacritic.com/tv/bosch": 3,
@@ -6855,7 +6855,7 @@
         "https://www.metacritic.com/tv/under-the-dome": 0,
         "https://www.metacritic.com/tv/z-the-beginning-of-everything": 3
     },
-    "EricChown55": {
+    "user164": {
         "https://www.metacritic.com/tv/alias": 3,
         "https://www.metacritic.com/tv/avatar-the-last-airbender": 4,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
@@ -6886,7 +6886,7 @@
         "https://www.metacritic.com/tv/veronica-mars": 3,
         "https://www.metacritic.com/tv/watchmen-2019": 4
     },
-    "fletcher0xFF": {
+    "user165": {
         "https://www.metacritic.com/tv/alias": 1,
         "https://www.metacritic.com/tv/atlanta": 3,
         "https://www.metacritic.com/tv/better-call-saul": 4,
@@ -6940,7 +6940,7 @@
         "https://www.metacritic.com/tv/westworld": 2,
         "https://www.metacritic.com/tv/youre-the-worst": 3
     },
-    "GadgetDon": {
+    "user166": {
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/childhoods-end": 3,
         "https://www.metacritic.com/tv/designated-survivor": 3,
@@ -6953,7 +6953,7 @@
         "https://www.metacritic.com/tv/sanctuary": 3,
         "https://www.metacritic.com/tv/the-man-in-the-high-castle": 3
     },
-    "gbigot": {
+    "user167": {
         "https://www.metacritic.com/tv/alias": 4,
         "https://www.metacritic.com/tv/ballers": 2,
         "https://www.metacritic.com/tv/banshee": 3,
@@ -7014,7 +7014,7 @@
         "https://www.metacritic.com/tv/veronica-mars": 4,
         "https://www.metacritic.com/tv/weeds": 4
     },
-    "georgemacdonald": {
+    "user168": {
         "https://www.metacritic.com/tv/alias": 4,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/doctor-who": 2,
@@ -7042,7 +7042,7 @@
         "https://www.metacritic.com/tv/twin-peaks": 1,
         "https://www.metacritic.com/tv/veronica-mars": 3
     },
-    "gregarnette": {
+    "user169": {
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/american-horror-story": 1,
         "https://www.metacritic.com/tv/arrested-development": 3,
@@ -7088,7 +7088,7 @@
         "https://www.metacritic.com/tv/westworld": 3,
         "https://www.metacritic.com/tv/will-grace": 4
     },
-    "HeyMonkee": {
+    "user170": {
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/angels-in-america": 3,
         "https://www.metacritic.com/tv/archer": 2,
@@ -7120,11 +7120,11 @@
         "https://www.metacritic.com/tv/true-detective": 2,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "JoachimStroh": {
+    "user171": {
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/youre-the-worst": 0
     },
-    "kpayavlas": {
+    "user172": {
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/ballers": 2,
@@ -7159,7 +7159,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "llew": {
+    "user173": {
         "https://www.metacritic.com/tv/alias": 3,
         "https://www.metacritic.com/tv/altered-carbon": 2,
         "https://www.metacritic.com/tv/ballers": 3,
@@ -7228,7 +7228,7 @@
         "https://www.metacritic.com/tv/weeds": 2,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "lucas_gonze": {
+    "user174": {
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
@@ -7255,7 +7255,7 @@
         "https://www.metacritic.com/tv/marco-polo-2014": 2,
         "https://www.metacritic.com/tv/masters-of-sex": 2
     },
-    "monicalo": {
+    "user175": {
         "https://www.metacritic.com/tv/alias": 3,
         "https://www.metacritic.com/tv/american-horror-story": 3,
         "https://www.metacritic.com/tv/ballers": 3,
@@ -7336,7 +7336,7 @@
         "https://www.metacritic.com/tv/westworld": 4,
         "https://www.metacritic.com/tv/will-grace": 1
     },
-    "noahchestnut": {
+    "user176": {
         "https://www.metacritic.com/tv/alias": 3,
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/band-of-brothers": 3,
@@ -7362,7 +7362,7 @@
         "https://www.metacritic.com/tv/the-wire": 4,
         "https://www.metacritic.com/tv/watchmen-2019": 3
     },
-    "NowistDiary": {
+    "user177": {
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/berlin-station": 2,
         "https://www.metacritic.com/tv/californication": 2,
@@ -7379,7 +7379,7 @@
         "https://www.metacritic.com/tv/twin-peaks": 4,
         "https://www.metacritic.com/tv/under-the-dome": 2
     },
-    "owen_greenwell": {
+    "user178": {
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/band-of-brothers": 4,
         "https://www.metacritic.com/tv/big-little-lies": 2,
@@ -7422,7 +7422,7 @@
         "https://www.metacritic.com/tv/veep": 4,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "TedAtCIS": {
+    "user179": {
         "https://www.metacritic.com/tv/alias": 4,
         "https://www.metacritic.com/tv/doctor-who": 3,
         "https://www.metacritic.com/tv/farscape": 3,
@@ -7440,7 +7440,7 @@
         "https://www.metacritic.com/tv/the-expanse": 4,
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 3
     },
-    "tgecho": {
+    "user180": {
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/band-of-brothers": 4,
@@ -7455,7 +7455,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2,
         "https://www.metacritic.com/tv/veronica-mars": 2
     },
-    "thejeffbyrnes": {
+    "user181": {
         "https://www.metacritic.com/tv/alias": 2,
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/archer": 4,
@@ -7501,7 +7501,7 @@
         "https://www.metacritic.com/tv/weeds": 1,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "tuxhedoh": {
+    "user182": {
         "https://www.metacritic.com/tv/alias": 3,
         "https://www.metacritic.com/tv/better-off-ted": 2,
         "https://www.metacritic.com/tv/bojack-horseman": 2,
@@ -7529,7 +7529,7 @@
         "https://www.metacritic.com/tv/watchmen-2019": 4,
         "https://www.metacritic.com/tv/weeds": 3
     },
-    "nadirinabottle": {
+    "user183": {
         "https://www.metacritic.com/tv/alien-nation-1989": 2,
         "https://www.metacritic.com/tv/altered-carbon": 2,
         "https://www.metacritic.com/tv/american-gods": 2,
@@ -7574,13 +7574,13 @@
         "https://www.metacritic.com/tv/the-umbrella-academy": 2,
         "https://www.metacritic.com/tv/watchmen-2019": 4
     },
-    "tanyaweiman": {
+    "user184": {
         "https://www.metacritic.com/tv/alien-nation-1989": 4,
         "https://www.metacritic.com/tv/penny-dreadful": 3,
         "https://www.metacritic.com/tv/penny-dreadful-city-of-angels": 4,
         "https://www.metacritic.com/tv/red-dwarf": 4
     },
-    "julians": {
+    "user185": {
         "https://www.metacritic.com/tv/altered-carbon": 1,
         "https://www.metacritic.com/tv/atypical": 2,
         "https://www.metacritic.com/tv/away": 2,
@@ -7640,7 +7640,7 @@
         "https://www.metacritic.com/tv/vikings": 2,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "KevinCTofel": {
+    "user186": {
         "https://www.metacritic.com/tv/altered-carbon": 4,
         "https://www.metacritic.com/tv/avatar-the-last-airbender": 2,
         "https://www.metacritic.com/tv/away": 3,
@@ -7711,7 +7711,7 @@
         "https://www.metacritic.com/tv/westworld": 3,
         "https://www.metacritic.com/tv/will-grace": 2
     },
-    "anteater_sa": {
+    "user187": {
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/boardwalk-empire": 3,
@@ -7720,7 +7720,7 @@
         "https://www.metacritic.com/tv/game-of-thrones": 4,
         "https://www.metacritic.com/tv/halt-and-catch-fire": 3
     },
-    "AriT93": {
+    "user188": {
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/bosch": 3,
         "https://www.metacritic.com/tv/game-of-thrones": 4,
@@ -7732,7 +7732,7 @@
         "https://www.metacritic.com/tv/the-sopranos": 4,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "bdreno": {
+    "user189": {
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/american-horror-story": 2,
         "https://www.metacritic.com/tv/anthony-bourdain-no-reservations": 3,
@@ -7799,7 +7799,7 @@
         "https://www.metacritic.com/tv/weeds": 2,
         "https://www.metacritic.com/tv/will-grace": 2
     },
-    "bondipap": {
+    "user190": {
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/american-vandal": 2,
         "https://www.metacritic.com/tv/better-call-saul": 2,
@@ -7825,12 +7825,12 @@
         "https://www.metacritic.com/tv/true-detective": 3,
         "https://www.metacritic.com/tv/weeds": 3
     },
-    "botykai_zsolt": {
+    "user191": {
         "https://www.metacritic.com/tv/american-gods": 1,
         "https://www.metacritic.com/tv/angels-in-america": 2,
         "https://www.metacritic.com/tv/black-mirror": 3
     },
-    "corntoole": {
+    "user192": {
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/black-mirror": 2,
         "https://www.metacritic.com/tv/designated-survivor": 2,
@@ -7844,7 +7844,7 @@
         "https://www.metacritic.com/tv/silicon-valley": 3,
         "https://www.metacritic.com/tv/the-blacklist": 3
     },
-    "debroby": {
+    "user193": {
         "https://www.metacritic.com/tv/american-gods": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/broadchurch": 3,
@@ -7877,7 +7877,7 @@
         "https://www.metacritic.com/tv/the-young-pope": 2,
         "https://www.metacritic.com/tv/top-chef": 4
     },
-    "gebloom": {
+    "user194": {
         "https://www.metacritic.com/tv/american-gods": 4,
         "https://www.metacritic.com/tv/arrested-development": 4,
         "https://www.metacritic.com/tv/band-of-brothers": 3,
@@ -7920,7 +7920,7 @@
         "https://www.metacritic.com/tv/veronica-mars": 4,
         "https://www.metacritic.com/tv/youre-the-worst": 2
     },
-    "greybeard_sys": {
+    "user195": {
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/black-mirror": 4,
         "https://www.metacritic.com/tv/broadchurch": 2,
@@ -7934,7 +7934,7 @@
         "https://www.metacritic.com/tv/star-trek-enterprise": 1,
         "https://www.metacritic.com/tv/star-trek-picard": 3
     },
-    "hamishcampbell": {
+    "user196": {
         "https://www.metacritic.com/tv/american-gods": 1,
         "https://www.metacritic.com/tv/band-of-brothers": 2,
         "https://www.metacritic.com/tv/better-call-saul": 2,
@@ -7968,7 +7968,7 @@
         "https://www.metacritic.com/tv/vikings": 4,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "hfb": {
+    "user197": {
         "https://www.metacritic.com/tv/american-gods": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/big-little-lies": 2,
@@ -8010,7 +8010,7 @@
         "https://www.metacritic.com/tv/twin-peaks": 3,
         "https://www.metacritic.com/tv/veronica-mars": 2
     },
-    "IvorPerry": {
+    "user198": {
         "https://www.metacritic.com/tv/american-gods": 0,
         "https://www.metacritic.com/tv/american-horror-story": 3,
         "https://www.metacritic.com/tv/better-call-saul": 3,
@@ -8029,7 +8029,7 @@
         "https://www.metacritic.com/tv/true-detective": 4,
         "https://www.metacritic.com/tv/westworld": 1
     },
-    "jamesburgos": {
+    "user199": {
         "https://www.metacritic.com/tv/american-gods": 2,
         "https://www.metacritic.com/tv/atlanta": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
@@ -8073,7 +8073,7 @@
         "https://www.metacritic.com/tv/true-detective": 2,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "Koppacetic": {
+    "user200": {
         "https://www.metacritic.com/tv/american-gods": 2,
         "https://www.metacritic.com/tv/archer": 3,
         "https://www.metacritic.com/tv/arrested-development": 3,
@@ -8107,7 +8107,7 @@
         "https://www.metacritic.com/tv/veep": 4,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "MarcNo": {
+    "user201": {
         "https://www.metacritic.com/tv/american-gods": 4,
         "https://www.metacritic.com/tv/archer": 3,
         "https://www.metacritic.com/tv/arrested-development": 3,
@@ -8123,7 +8123,7 @@
         "https://www.metacritic.com/tv/twin-peaks": 2,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "mattotcha": {
+    "user202": {
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/fleabag": 4,
         "https://www.metacritic.com/tv/gotham": 3,
@@ -8133,7 +8133,7 @@
         "https://www.metacritic.com/tv/the-umbrella-academy": 3,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "mgpolitis": {
+    "user203": {
         "https://www.metacritic.com/tv/american-gods": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -8154,7 +8154,7 @@
         "https://www.metacritic.com/tv/true-detective": 3,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "neonzebra": {
+    "user204": {
         "https://www.metacritic.com/tv/american-gods": 2,
         "https://www.metacritic.com/tv/band-of-brothers": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
@@ -8227,7 +8227,7 @@
         "https://www.metacritic.com/tv/weeds": 3,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "Nithin": {
+    "user205": {
         "https://www.metacritic.com/tv/american-gods": 4,
         "https://www.metacritic.com/tv/black-mirror": 4,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -8254,7 +8254,7 @@
         "https://www.metacritic.com/tv/the-strain": 2,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "paolovalde": {
+    "user206": {
         "https://www.metacritic.com/tv/american-gods": 2,
         "https://www.metacritic.com/tv/atypical": 3,
         "https://www.metacritic.com/tv/ballers": 3,
@@ -8343,7 +8343,7 @@
         "https://www.metacritic.com/tv/westworld": 4,
         "https://www.metacritic.com/tv/will-grace": 1
     },
-    "pauliephonic": {
+    "user207": {
         "https://www.metacritic.com/tv/american-gods": 4,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 2,
         "https://www.metacritic.com/tv/black-mirror": 3,
@@ -8376,7 +8376,7 @@
         "https://www.metacritic.com/tv/twin-peaks": 3,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "roger_fretwell": {
+    "user208": {
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/boardwalk-empire": 1,
         "https://www.metacritic.com/tv/bosch": 2,
@@ -8397,7 +8397,7 @@
         "https://www.metacritic.com/tv/twin-peaks": 2,
         "https://www.metacritic.com/tv/unreal": 3
     },
-    "steinarskeie": {
+    "user209": {
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/band-of-brothers": 4,
@@ -8422,7 +8422,7 @@
         "https://www.metacritic.com/tv/mr-robot": 3,
         "https://www.metacritic.com/tv/orange-is-the-new-black": 2
     },
-    "timpettigrew": {
+    "user210": {
         "https://www.metacritic.com/tv/american-gods": 3,
         "https://www.metacritic.com/tv/archer": 2,
         "https://www.metacritic.com/tv/arrested-development": 3,
@@ -8461,10 +8461,10 @@
         "https://www.metacritic.com/tv/trailer-park-boys": 2,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "trikashny": {
+    "user211": {
         "https://www.metacritic.com/tv/american-gods": 2
     },
-    "agcur": {
+    "user212": {
         "https://www.metacritic.com/tv/american-horror-story": 2,
         "https://www.metacritic.com/tv/archer": 3,
         "https://www.metacritic.com/tv/band-of-brothers": 2,
@@ -8527,7 +8527,7 @@
         "https://www.metacritic.com/tv/true-detective": 3,
         "https://www.metacritic.com/tv/young-wallander": 1
     },
-    "AltSelf": {
+    "user213": {
         "https://www.metacritic.com/tv/american-horror-story": 2,
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/better-call-saul": 2,
@@ -8555,7 +8555,7 @@
         "https://www.metacritic.com/tv/the-office": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "chollander": {
+    "user214": {
         "https://www.metacritic.com/tv/american-horror-story": 2,
         "https://www.metacritic.com/tv/dexter": 2,
         "https://www.metacritic.com/tv/firefly": 3,
@@ -8570,7 +8570,7 @@
         "https://www.metacritic.com/tv/this-is-us": 2,
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2
     },
-    "christiansimms": {
+    "user215": {
         "https://www.metacritic.com/tv/american-horror-story": 2,
         "https://www.metacritic.com/tv/dead-like-me": 3,
         "https://www.metacritic.com/tv/dexter": 3,
@@ -8578,7 +8578,7 @@
         "https://www.metacritic.com/tv/stranger-things": 3,
         "https://www.metacritic.com/tv/veronica-mars": 3
     },
-    "h34th3r329": {
+    "user216": {
         "https://www.metacritic.com/tv/american-horror-story": 2,
         "https://www.metacritic.com/tv/ballers": 3,
         "https://www.metacritic.com/tv/better-call-saul": 1,
@@ -8623,7 +8623,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 1,
         "https://www.metacritic.com/tv/will-grace": 4
     },
-    "pdchamp": {
+    "user217": {
         "https://www.metacritic.com/tv/american-horror-story": 2,
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/big-little-lies": 2,
@@ -8662,7 +8662,7 @@
         "https://www.metacritic.com/tv/true-detective": 2,
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2
     },
-    "aljfish": {
+    "user218": {
         "https://www.metacritic.com/tv/american-vandal": 3,
         "https://www.metacritic.com/tv/band-of-brothers": 4,
         "https://www.metacritic.com/tv/curb-your-enthusiasm": 3,
@@ -8681,7 +8681,7 @@
         "https://www.metacritic.com/tv/the-wire": 4,
         "https://www.metacritic.com/tv/true-detective": 3
     },
-    "smallbusiness": {
+    "user219": {
         "https://www.metacritic.com/tv/american-vandal": 1,
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/better-call-saul": 3,
@@ -8692,7 +8692,7 @@
         "https://www.metacritic.com/tv/silicon-valley": 3,
         "https://www.metacritic.com/tv/stranger-things": 4
     },
-    "danderson3333": {
+    "user220": {
         "https://www.metacritic.com/tv/angels-in-america": 3,
         "https://www.metacritic.com/tv/berlin-station": 4,
         "https://www.metacritic.com/tv/better-call-saul": 4,
@@ -8735,7 +8735,7 @@
         "https://www.metacritic.com/tv/westworld": 4,
         "https://www.metacritic.com/tv/will-grace": 2
     },
-    "gejarrett": {
+    "user221": {
         "https://www.metacritic.com/tv/angels-in-america": 4,
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/atypical": 3,
@@ -8762,7 +8762,7 @@
         "https://www.metacritic.com/tv/the-wire": 4,
         "https://www.metacritic.com/tv/transparent": 4
     },
-    "hardaway": {
+    "user222": {
         "https://www.metacritic.com/tv/angels-in-america": 3,
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/big-little-lies": 3,
@@ -8818,7 +8818,7 @@
         "https://www.metacritic.com/tv/the-wire": 4,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "mugwump2": {
+    "user223": {
         "https://www.metacritic.com/tv/angels-in-america": 4,
         "https://www.metacritic.com/tv/big-little-lies": 2,
         "https://www.metacritic.com/tv/billions": 2,
@@ -8858,7 +8858,7 @@
         "https://www.metacritic.com/tv/treme": 2,
         "https://www.metacritic.com/tv/veronica-mars": 2
     },
-    "jsuleiman": {
+    "user224": {
         "https://www.metacritic.com/tv/anthony-bourdain-no-reservations": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/black-sails": 3,
@@ -8899,7 +8899,7 @@
         "https://www.metacritic.com/tv/westworld": 2,
         "https://www.metacritic.com/tv/young-wallander": 1
     },
-    "Bizzacore": {
+    "user225": {
         "https://www.metacritic.com/tv/archer": 3,
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/better-call-saul": 3,
@@ -8954,7 +8954,7 @@
         "https://www.metacritic.com/tv/wet-hot-american-summer-first-day-of-camp": 3,
         "https://www.metacritic.com/tv/youre-the-worst": 4
     },
-    "cdekievit": {
+    "user226": {
         "https://www.metacritic.com/tv/archer": 3,
         "https://www.metacritic.com/tv/bloodline": 2,
         "https://www.metacritic.com/tv/boardwalk-empire": 3,
@@ -8965,7 +8965,7 @@
         "https://www.metacritic.com/tv/united-states-of-tara": 1,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "closetgeekshow": {
+    "user227": {
         "https://www.metacritic.com/tv/archer": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 2,
         "https://www.metacritic.com/tv/broadchurch": 2,
@@ -8999,7 +8999,7 @@
         "https://www.metacritic.com/tv/under-the-dome": 0,
         "https://www.metacritic.com/tv/veronica-mars": 2
     },
-    "csakon": {
+    "user228": {
         "https://www.metacritic.com/tv/archer": 3,
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/ballers": 0,
@@ -9042,7 +9042,7 @@
         "https://www.metacritic.com/tv/the-ranch": 0,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "GerardoHD1": {
+    "user229": {
         "https://www.metacritic.com/tv/archer": 3,
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/avatar-the-last-airbender": 3,
@@ -9051,7 +9051,7 @@
         "https://www.metacritic.com/tv/shameless-uk": 3,
         "https://www.metacritic.com/tv/suits": 2
     },
-    "gnomeuser": {
+    "user230": {
         "https://www.metacritic.com/tv/archer": 4,
         "https://www.metacritic.com/tv/billions": 4,
         "https://www.metacritic.com/tv/bojack-horseman": 3,
@@ -9090,11 +9090,11 @@
         "https://www.metacritic.com/tv/vikings": 2,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "juririm": {
+    "user231": {
         "https://www.metacritic.com/tv/archer": 4,
         "https://www.metacritic.com/tv/bojack-horseman": 4
     },
-    "kenzoid": {
+    "user232": {
         "https://www.metacritic.com/tv/archer": 3,
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/chernobyl": 3,
@@ -9114,7 +9114,7 @@
         "https://www.metacritic.com/tv/watchmen-2019": 4,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "mathieulongtin": {
+    "user233": {
         "https://www.metacritic.com/tv/archer": 3,
         "https://www.metacritic.com/tv/barry": 4,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 2,
@@ -9164,7 +9164,7 @@
         "https://www.metacritic.com/tv/veep": 4,
         "https://www.metacritic.com/tv/watchmen-2019": 3
     },
-    "Michael_Boamah": {
+    "user234": {
         "https://www.metacritic.com/tv/archer": 0,
         "https://www.metacritic.com/tv/better-call-saul": 1,
         "https://www.metacritic.com/tv/bojack-horseman": 4,
@@ -9198,7 +9198,7 @@
         "https://www.metacritic.com/tv/united-states-of-tara": 1,
         "https://www.metacritic.com/tv/veep": 1
     },
-    "papascott": {
+    "user235": {
         "https://www.metacritic.com/tv/archer": 2,
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/boardwalk-empire": 2,
@@ -9235,7 +9235,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 1,
         "https://www.metacritic.com/tv/veep": 1
     },
-    "sandbags": {
+    "user236": {
         "https://www.metacritic.com/tv/archer": 3,
         "https://www.metacritic.com/tv/arrow": 2,
         "https://www.metacritic.com/tv/babylon-5": 2,
@@ -9255,7 +9255,7 @@
         "https://www.metacritic.com/tv/the-mentalist": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "southern__bread": {
+    "user237": {
         "https://www.metacritic.com/tv/archer": 4,
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/band-of-brothers": 3,
@@ -9278,7 +9278,7 @@
         "https://www.metacritic.com/tv/twin-peaks": 2,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "YesYoureSexist": {
+    "user238": {
         "https://www.metacritic.com/tv/archer": 0,
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/atlanta": 3,
@@ -9309,7 +9309,7 @@
         "https://www.metacritic.com/tv/seinfeld": 3,
         "https://www.metacritic.com/tv/stranger-things": 2
     },
-    "9sike9": {
+    "user239": {
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/bloodline": 2,
@@ -9346,7 +9346,7 @@
         "https://www.metacritic.com/tv/weeds": 2,
         "https://www.metacritic.com/tv/westworld": 1
     },
-    "amilhamdev": {
+    "user240": {
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/better-call-saul": 3,
@@ -9389,11 +9389,11 @@
         "https://www.metacritic.com/tv/westworld": 2,
         "https://www.metacritic.com/tv/youre-the-worst": 4
     },
-    "amyinorbit": {
+    "user241": {
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/brooklyn-nine-nine": 4
     },
-    "bstapleton_": {
+    "user242": {
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/band-of-brothers": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
@@ -9419,7 +9419,7 @@
         "https://www.metacritic.com/tv/veep": 2,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "charliepayne21": {
+    "user243": {
         "https://www.metacritic.com/tv/arrested-development": 4,
         "https://www.metacritic.com/tv/atlanta": 1,
         "https://www.metacritic.com/tv/breaking-bad": 3,
@@ -9432,7 +9432,7 @@
         "https://www.metacritic.com/tv/the-wire": 3,
         "https://www.metacritic.com/tv/veep": 4
     },
-    "danhallock": {
+    "user244": {
         "https://www.metacritic.com/tv/arrested-development": 1,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/curb-your-enthusiasm": 1,
@@ -9458,7 +9458,7 @@
         "https://www.metacritic.com/tv/the-newsroom": 4,
         "https://www.metacritic.com/tv/the-west-wing": 4
     },
-    "gregg": {
+    "user245": {
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/big-little-lies": 2,
@@ -9486,7 +9486,7 @@
         "https://www.metacritic.com/tv/veep": 2,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "jfno": {
+    "user246": {
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/big-little-lies": 3,
         "https://www.metacritic.com/tv/breaking-bad": 3,
@@ -9505,11 +9505,11 @@
         "https://www.metacritic.com/tv/the-sopranos": 3,
         "https://www.metacritic.com/tv/weeds": 2
     },
-    "jimandtonic": {
+    "user247": {
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/breaking-bad": 3
     },
-    "JohnFeld9": {
+    "user248": {
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/band-of-brothers": 2,
         "https://www.metacritic.com/tv/cagney-lacey": 0,
@@ -9555,14 +9555,14 @@
         "https://www.metacritic.com/tv/wild-wild-country": 2,
         "https://www.metacritic.com/tv/young-sheldon": 1
     },
-    "KidNate": {
+    "user249": {
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/mad-men": 2,
         "https://www.metacritic.com/tv/seinfeld": 3,
         "https://www.metacritic.com/tv/the-larry-sanders-show": 2,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "lexter": {
+    "user250": {
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/better-call-saul": 2,
         "https://www.metacritic.com/tv/boardwalk-empire": 1,
@@ -9588,7 +9588,7 @@
         "https://www.metacritic.com/tv/the-sopranos": 2,
         "https://www.metacritic.com/tv/weeds": 1
     },
-    "mahemoff": {
+    "user251": {
         "https://www.metacritic.com/tv/arrested-development": 4,
         "https://www.metacritic.com/tv/better-call-saul": 2,
         "https://www.metacritic.com/tv/black-mirror": 4,
@@ -9600,7 +9600,7 @@
         "https://www.metacritic.com/tv/entourage": 1,
         "https://www.metacritic.com/tv/fargo": 2
     },
-    "markblevis": {
+    "user252": {
         "https://www.metacritic.com/tv/arrested-development": 4,
         "https://www.metacritic.com/tv/atypical": 3,
         "https://www.metacritic.com/tv/barry": 2,
@@ -9655,7 +9655,7 @@
         "https://www.metacritic.com/tv/this-is-us": 4,
         "https://www.metacritic.com/tv/tiger-king-murder-mayhem-and-madness": 2
     },
-    "mbrichman": {
+    "user253": {
         "https://www.metacritic.com/tv/arrested-development": 4,
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
@@ -9688,7 +9688,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 1,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "misssyoung92": {
+    "user254": {
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/broadchurch": 2,
@@ -9708,7 +9708,7 @@
         "https://www.metacritic.com/tv/the-man-in-the-high-castle": 0,
         "https://www.metacritic.com/tv/the-night-manager": 3
     },
-    "mkeyes": {
+    "user255": {
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/band-of-brothers": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
@@ -9724,7 +9724,7 @@
         "https://www.metacritic.com/tv/stranger-things": 4,
         "https://www.metacritic.com/tv/the-americans": 2
     },
-    "paolom": {
+    "user256": {
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/black-mirror": 2,
@@ -9736,7 +9736,7 @@
         "https://www.metacritic.com/tv/fringe": 2,
         "https://www.metacritic.com/tv/halt-and-catch-fire": 2
     },
-    "patsully": {
+    "user257": {
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/band-of-brothers": 4,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 1,
@@ -9763,7 +9763,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 2,
         "https://www.metacritic.com/tv/the-wire": 3
     },
-    "randyshively": {
+    "user258": {
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/arrow": 1,
         "https://www.metacritic.com/tv/avatar-the-last-airbender": 2,
@@ -9807,7 +9807,7 @@
         "https://www.metacritic.com/tv/under-the-dome": 1,
         "https://www.metacritic.com/tv/young-sheldon": 4
     },
-    "richb_hanover": {
+    "user259": {
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/avatar-the-last-airbender": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
@@ -9818,14 +9818,14 @@
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/this-is-us": 2
     },
-    "rodmitch": {
+    "user260": {
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/breaking-bad": 3,
         "https://www.metacritic.com/tv/mystery-science-theater-3000": 2,
         "https://www.metacritic.com/tv/parks-and-recreation": 3,
         "https://www.metacritic.com/tv/the-office": 4
     },
-    "rorhug": {
+    "user261": {
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/better-call-saul": 0,
         "https://www.metacritic.com/tv/breaking-bad": 2,
@@ -9833,7 +9833,7 @@
         "https://www.metacritic.com/tv/game-of-thrones": 4,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "ssieck": {
+    "user262": {
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/rectify": 4,
@@ -9845,14 +9845,14 @@
         "https://www.metacritic.com/tv/watchmen-2019": 3,
         "https://www.metacritic.com/tv/wild-wild-country": 2
     },
-    "Surfy": {
+    "user263": {
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/seinfeld": 3,
         "https://www.metacritic.com/tv/silicon-valley": 3,
         "https://www.metacritic.com/tv/stranger-things": 2
     },
-    "tedchoward": {
+    "user264": {
         "https://www.metacritic.com/tv/arrested-development": 2,
         "https://www.metacritic.com/tv/avenue-5": 1,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
@@ -9881,7 +9881,7 @@
         "https://www.metacritic.com/tv/the-good-fight": 2,
         "https://www.metacritic.com/tv/the-good-place": 2
     },
-    "tomfitch": {
+    "user265": {
         "https://www.metacritic.com/tv/arrested-development": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/better-call-saul": 3,
@@ -9908,7 +9908,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/veep": 3
     },
-    "layne_flake": {
+    "user266": {
         "https://www.metacritic.com/tv/arrow": 2,
         "https://www.metacritic.com/tv/avatar-the-last-airbender": 4,
         "https://www.metacritic.com/tv/avatar-the-legend-of-korra": 3,
@@ -9952,13 +9952,13 @@
         "https://www.metacritic.com/tv/victoria-2016": 3,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "freetimestudios": {
+    "user267": {
         "https://www.metacritic.com/tv/atlanta": 3
     },
-    "jasonlehmbeck": {
+    "user268": {
         "https://www.metacritic.com/tv/atlanta": 3
     },
-    "rebeccakindschi": {
+    "user269": {
         "https://www.metacritic.com/tv/atlanta": 3,
         "https://www.metacritic.com/tv/big-little-lies": 3,
         "https://www.metacritic.com/tv/broadchurch": 3,
@@ -9999,7 +9999,7 @@
         "https://www.metacritic.com/tv/veronica-mars": 4,
         "https://www.metacritic.com/tv/youre-the-worst": 3
     },
-    "rickyyean": {
+    "user270": {
         "https://www.metacritic.com/tv/atlanta": 1,
         "https://www.metacritic.com/tv/black-mirror": 3,
         "https://www.metacritic.com/tv/breaking-bad": 1,
@@ -10016,17 +10016,17 @@
         "https://www.metacritic.com/tv/watchmen-2019": 1,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "suryasays": {
+    "user271": {
         "https://www.metacritic.com/tv/atlanta": 3,
         "https://www.metacritic.com/tv/fleabag": 3,
         "https://www.metacritic.com/tv/the-americans": 3,
         "https://www.metacritic.com/tv/the-wire": 4,
         "https://www.metacritic.com/tv/watchmen-2019": 3
     },
-    "vjrajpal": {
+    "user272": {
         "https://www.metacritic.com/tv/atlanta": 3
     },
-    "dgeiser13": {
+    "user273": {
         "https://www.metacritic.com/tv/atypical": 4,
         "https://www.metacritic.com/tv/fargo": 4,
         "https://www.metacritic.com/tv/ozark": 4,
@@ -10037,7 +10037,7 @@
         "https://www.metacritic.com/tv/watchmen-2019": 4,
         "https://www.metacritic.com/tv/what-we-do-in-the-shadows-2019": 4
     },
-    "cryptoyeezy": {
+    "user274": {
         "https://www.metacritic.com/tv/avatar-the-last-airbender": 3,
         "https://www.metacritic.com/tv/brooklyn-nine-nine": 3,
         "https://www.metacritic.com/tv/castle": 3,
@@ -10050,7 +10050,7 @@
         "https://www.metacritic.com/tv/sense8": 2,
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2
     },
-    "eduardo_gomes": {
+    "user275": {
         "https://www.metacritic.com/tv/avatar-the-last-airbender": 3,
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/big-little-lies": 3,
@@ -10071,7 +10071,7 @@
         "https://www.metacritic.com/tv/succession": 2,
         "https://www.metacritic.com/tv/watchmen-2019": 4
     },
-    "ibryanj": {
+    "user276": {
         "https://www.metacritic.com/tv/avatar-the-last-airbender": 3,
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/better-things": 3,
@@ -10155,7 +10155,7 @@
         "https://www.metacritic.com/tv/weeds": 3,
         "https://www.metacritic.com/tv/young-sheldon": 3
     },
-    "TielseTC": {
+    "user277": {
         "https://www.metacritic.com/tv/avatar-the-last-airbender": 4,
         "https://www.metacritic.com/tv/band-of-brothers": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-1978": 3,
@@ -10205,14 +10205,14 @@
         "https://www.metacritic.com/tv/twin-peaks": 4,
         "https://www.metacritic.com/tv/will-grace": 1
     },
-    "demiurgeherder": {
+    "user278": {
         "https://www.metacritic.com/tv/babylon-5": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 1,
         "https://www.metacritic.com/tv/game-of-thrones": 2,
         "https://www.metacritic.com/tv/the-wire": 4,
         "https://www.metacritic.com/tv/wild-wild-country": 2
     },
-    "Latz": {
+    "user279": {
         "https://www.metacritic.com/tv/babylon-5": 4,
         "https://www.metacritic.com/tv/big-brother": 0,
         "https://www.metacritic.com/tv/black-mirror": 3,
@@ -10241,7 +10241,7 @@
         "https://www.metacritic.com/tv/the-big-bang-theory": 3,
         "https://www.metacritic.com/tv/this-is-us": 1
     },
-    "mattsly": {
+    "user280": {
         "https://www.metacritic.com/tv/ballers": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-1978": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 1,
@@ -10288,7 +10288,7 @@
         "https://www.metacritic.com/tv/weeds": 1,
         "https://www.metacritic.com/tv/westworld": 1
     },
-    "_dgoldsmith": {
+    "user281": {
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/better-call-saul": 4,
@@ -10333,7 +10333,7 @@
         "https://www.metacritic.com/tv/westworld": 3,
         "https://www.metacritic.com/tv/will-grace": 1
     },
-    "adamrg": {
+    "user282": {
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/black-mirror": 2,
@@ -10374,7 +10374,7 @@
         "https://www.metacritic.com/tv/veronica-mars": 3,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "AjayMayor": {
+    "user283": {
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/breaking-bad": 1,
         "https://www.metacritic.com/tv/curb-your-enthusiasm": 3,
@@ -10389,7 +10389,7 @@
         "https://www.metacritic.com/tv/the-sopranos": 4,
         "https://www.metacritic.com/tv/the-west-wing": 4
     },
-    "bird_mike": {
+    "user284": {
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/bosch": 2,
         "https://www.metacritic.com/tv/broadchurch": 3,
@@ -10408,7 +10408,7 @@
         "https://www.metacritic.com/tv/the-night-manager": 4,
         "https://www.metacritic.com/tv/the-west-wing": 4
     },
-    "BryanLuby": {
+    "user285": {
         "https://www.metacritic.com/tv/band-of-brothers": 1,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/breaking-bad": 2,
@@ -10423,7 +10423,7 @@
         "https://www.metacritic.com/tv/the-office": 2,
         "https://www.metacritic.com/tv/true-blood": 2
     },
-    "cllees": {
+    "user286": {
         "https://www.metacritic.com/tv/band-of-brothers": 4,
         "https://www.metacritic.com/tv/berlin-station": 4,
         "https://www.metacritic.com/tv/better-things": 2,
@@ -10467,7 +10467,7 @@
         "https://www.metacritic.com/tv/top-of-the-lake": 2,
         "https://www.metacritic.com/tv/transplant": 4
     },
-    "davidlu": {
+    "user287": {
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/firefly": 4,
         "https://www.metacritic.com/tv/futurama": 4,
@@ -10486,7 +10486,7 @@
         "https://www.metacritic.com/tv/westworld": 2,
         "https://www.metacritic.com/tv/young-sheldon": 2
     },
-    "detayls": {
+    "user288": {
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/breaking-bad": 3,
@@ -10498,7 +10498,7 @@
         "https://www.metacritic.com/tv/the-sopranos": 3,
         "https://www.metacritic.com/tv/the-west-wing": 3
     },
-    "dokajipa": {
+    "user289": {
         "https://www.metacritic.com/tv/band-of-brothers": 2,
         "https://www.metacritic.com/tv/black-mirror": 3,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -10525,7 +10525,7 @@
         "https://www.metacritic.com/tv/the-simpsons": 3,
         "https://www.metacritic.com/tv/will-grace": 4
     },
-    "eserlan": {
+    "user290": {
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/deadwood": 3,
@@ -10538,7 +10538,7 @@
         "https://www.metacritic.com/tv/the-wire": 3,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "flowfx_": {
+    "user291": {
         "https://www.metacritic.com/tv/band-of-brothers": 4,
         "https://www.metacritic.com/tv/black-mirror": 3,
         "https://www.metacritic.com/tv/breaking-bad": 3,
@@ -10562,7 +10562,7 @@
         "https://www.metacritic.com/tv/the-shield": 3,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "JamesCorbett": {
+    "user292": {
         "https://www.metacritic.com/tv/band-of-brothers": 4,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/better-call-saul": 3,
@@ -10599,7 +10599,7 @@
         "https://www.metacritic.com/tv/true-detective": 3,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "jhholtan": {
+    "user293": {
         "https://www.metacritic.com/tv/band-of-brothers": 4,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/better-call-saul": 2,
@@ -10637,7 +10637,7 @@
         "https://www.metacritic.com/tv/true-detective": 4,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "JohanSundin": {
+    "user294": {
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 2,
         "https://www.metacritic.com/tv/black-mirror": 3,
@@ -10661,7 +10661,7 @@
         "https://www.metacritic.com/tv/twin-peaks": 2,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "jonphipps": {
+    "user295": {
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 2,
         "https://www.metacritic.com/tv/bosch": 2,
@@ -10669,7 +10669,7 @@
         "https://www.metacritic.com/tv/stranger-things": 2,
         "https://www.metacritic.com/tv/the-west-wing": 4
     },
-    "julian_jj": {
+    "user296": {
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/big-little-lies": 4,
@@ -10703,7 +10703,7 @@
         "https://www.metacritic.com/tv/true-detective": 3,
         "https://www.metacritic.com/tv/weeds": 4
     },
-    "kevin_spencer": {
+    "user297": {
         "https://www.metacritic.com/tv/band-of-brothers": 4,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/big-love": 2,
@@ -10716,7 +10716,7 @@
         "https://www.metacritic.com/tv/the-sopranos": 4,
         "https://www.metacritic.com/tv/the-west-wing": 4
     },
-    "LaptopHeaven": {
+    "user298": {
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/better-call-saul": 2,
         "https://www.metacritic.com/tv/black-mirror": 4,
@@ -10733,7 +10733,7 @@
         "https://www.metacritic.com/tv/the-sopranos": 4,
         "https://www.metacritic.com/tv/the-west-wing": 3
     },
-    "markOmay": {
+    "user299": {
         "https://www.metacritic.com/tv/band-of-brothers": 2,
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/black-mirror": 2,
@@ -10763,7 +10763,7 @@
         "https://www.metacritic.com/tv/the-prisoner": 4,
         "https://www.metacritic.com/tv/the-west-wing": 3
     },
-    "mlbelanger": {
+    "user300": {
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -10789,7 +10789,7 @@
         "https://www.metacritic.com/tv/under-the-dome": 0,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "rushprjct": {
+    "user301": {
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 2,
         "https://www.metacritic.com/tv/better-call-saul": 3,
@@ -10836,14 +10836,14 @@
         "https://www.metacritic.com/tv/vikings": 3,
         "https://www.metacritic.com/tv/will-grace": 1
     },
-    "rvanderblom": {
+    "user302": {
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 2,
         "https://www.metacritic.com/tv/grimm": 4,
         "https://www.metacritic.com/tv/marco-polo-2014": 4,
         "https://www.metacritic.com/tv/mindhunter": 3
     },
-    "unfrozencave": {
+    "user303": {
         "https://www.metacritic.com/tv/band-of-brothers": 4,
         "https://www.metacritic.com/tv/fringe": 3,
         "https://www.metacritic.com/tv/homeland": 4,
@@ -10852,7 +10852,7 @@
         "https://www.metacritic.com/tv/mozart-in-the-jungle": 2,
         "https://www.metacritic.com/tv/weeds": 4
     },
-    "woutervanwijk": {
+    "user304": {
         "https://www.metacritic.com/tv/band-of-brothers": 3,
         "https://www.metacritic.com/tv/black-mirror": 3,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -10876,7 +10876,7 @@
         "https://www.metacritic.com/tv/true-detective": 3,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "Mr_Matt": {
+    "user305": {
         "https://www.metacritic.com/tv/barry": 2,
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/better-call-saul": 3,
@@ -10889,7 +10889,7 @@
         "https://www.metacritic.com/tv/sherlock": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "dsearls": {
+    "user306": {
         "https://www.metacritic.com/tv/baseball-a-film-by-ken-burns": 4,
         "https://www.metacritic.com/tv/halt-and-catch-fire": 3,
         "https://www.metacritic.com/tv/immigration-nation": 2,
@@ -10899,7 +10899,7 @@
         "https://www.metacritic.com/tv/the-mandalorian": 1,
         "https://www.metacritic.com/tv/the-marvelous-mrs-maisel": 4
     },
-    "ecrosstexas": {
+    "user307": {
         "https://www.metacritic.com/tv/baseball-a-film-by-ken-burns": 3,
         "https://www.metacritic.com/tv/boston-legal": 3,
         "https://www.metacritic.com/tv/for-all-mankind": 2,
@@ -10915,7 +10915,7 @@
         "https://www.metacritic.com/tv/the-marvelous-mrs-maisel": 3,
         "https://www.metacritic.com/tv/the-people-v-oj-simpson-american-crime-story": 2
     },
-    "katoi": {
+    "user308": {
         "https://www.metacritic.com/tv/bates-motel": 1,
         "https://www.metacritic.com/tv/billions": 2,
         "https://www.metacritic.com/tv/black-mirror": 2,
@@ -10942,10 +10942,10 @@
         "https://www.metacritic.com/tv/the-office-uk": 3,
         "https://www.metacritic.com/tv/the-x-files": 2
     },
-    "aDB": {
+    "user309": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3
     },
-    "blogisch": {
+    "user310": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/designated-survivor": 3,
         "https://www.metacritic.com/tv/downton-abbey": 2,
@@ -10962,10 +10962,10 @@
         "https://www.metacritic.com/tv/the-oa": 2,
         "https://www.metacritic.com/tv/under-the-dome": 1
     },
-    "bryankinkel": {
+    "user311": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3
     },
-    "chaodoze": {
+    "user312": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/big-little-lies": 3,
@@ -11024,7 +11024,7 @@
         "https://www.metacritic.com/tv/westworld": 3,
         "https://www.metacritic.com/tv/z-the-beginning-of-everything": 2
     },
-    "ChristopherA": {
+    "user313": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/bosch": 2,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -11051,7 +11051,7 @@
         "https://www.metacritic.com/tv/veronica-mars": 3,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "colin_rafferty": {
+    "user314": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/breaking-bad": 3,
         "https://www.metacritic.com/tv/firefly": 4,
@@ -11061,7 +11061,7 @@
         "https://www.metacritic.com/tv/seinfeld": 1,
         "https://www.metacritic.com/tv/the-americans": 3
     },
-    "cweirup": {
+    "user315": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 2,
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/black-books": 2,
@@ -11089,7 +11089,7 @@
         "https://www.metacritic.com/tv/the-venture-brothers": 3,
         "https://www.metacritic.com/tv/watchmen-2019": 4
     },
-    "damienbarrett": {
+    "user316": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/better-things": 2,
         "https://www.metacritic.com/tv/billions": 4,
@@ -11110,7 +11110,7 @@
         "https://www.metacritic.com/tv/the-wire": 4,
         "https://www.metacritic.com/tv/weeds": 3
     },
-    "david_coletta": {
+    "user317": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/downton-abbey": 3,
         "https://www.metacritic.com/tv/firefly": 4,
@@ -11133,7 +11133,7 @@
         "https://www.metacritic.com/tv/weeds": 3,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "defjaf": {
+    "user318": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -11141,7 +11141,7 @@
         "https://www.metacritic.com/tv/the-shield": 2,
         "https://www.metacritic.com/tv/the-wire": 3
     },
-    "DevHawk": {
+    "user319": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/bojack-horseman": 3,
         "https://www.metacritic.com/tv/firefly": 3,
@@ -11156,17 +11156,17 @@
         "https://www.metacritic.com/tv/watchmen-2019": 4,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "endonend": {
+    "user320": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3
     },
-    "frankm": {
+    "user321": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/game-of-thrones": 3,
         "https://www.metacritic.com/tv/sherlock": 2,
         "https://www.metacritic.com/tv/stranger-things": 2,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "hanshansen": {
+    "user322": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/firefly": 4,
         "https://www.metacritic.com/tv/game-of-thrones": 3,
@@ -11176,14 +11176,14 @@
         "https://www.metacritic.com/tv/stranger-things": 3,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "havoclad": {
+    "user323": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/big-love": 2,
         "https://www.metacritic.com/tv/boardwalk-empire": 1,
         "https://www.metacritic.com/tv/deadwood": 4,
         "https://www.metacritic.com/tv/the-wire": 3
     },
-    "HiMYSYeD": {
+    "user324": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/futurama": 4,
         "https://www.metacritic.com/tv/madam-secretary": 2,
@@ -11193,13 +11193,13 @@
         "https://www.metacritic.com/tv/the-prisoner": 4,
         "https://www.metacritic.com/tv/the-west-wing": 4
     },
-    "jablair": {
+    "user325": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3
     },
-    "jgmac1106": {
+    "user326": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3
     },
-    "kishner": {
+    "user327": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/firefly": 3,
         "https://www.metacritic.com/tv/freaks-and-geeks": 2,
@@ -11209,7 +11209,7 @@
         "https://www.metacritic.com/tv/stranger-things": 3,
         "https://www.metacritic.com/tv/veronica-mars": 3
     },
-    "manizkrishnan": {
+    "user328": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -11222,7 +11222,7 @@
         "https://www.metacritic.com/tv/stranger-things": 4,
         "https://www.metacritic.com/tv/the-sopranos": 3
     },
-    "pandemia": {
+    "user329": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 0,
         "https://www.metacritic.com/tv/billions": 2,
         "https://www.metacritic.com/tv/black-mirror": 2,
@@ -11247,7 +11247,7 @@
         "https://www.metacritic.com/tv/twin-peaks": 1,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "pborenstein": {
+    "user330": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/firefly": 3,
@@ -11258,7 +11258,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 2,
         "https://www.metacritic.com/tv/the-wire": 3
     },
-    "robgunning": {
+    "user331": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -11275,10 +11275,10 @@
         "https://www.metacritic.com/tv/the-sopranos": 2,
         "https://www.metacritic.com/tv/twin-peaks": 2
     },
-    "rtanglao": {
+    "user332": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3
     },
-    "sbw": {
+    "user333": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/bosch": 4,
         "https://www.metacritic.com/tv/brockmire": 3,
@@ -11322,14 +11322,14 @@
         "https://www.metacritic.com/tv/watchmen-2019": 4,
         "https://www.metacritic.com/tv/westworld": 1
     },
-    "slandsman": {
+    "user334": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/doctor-who": 4,
         "https://www.metacritic.com/tv/eureka": 3,
         "https://www.metacritic.com/tv/futurama": 4,
         "https://www.metacritic.com/tv/the-west-wing": 4
     },
-    "sraggio": {
+    "user335": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/big-little-lies": 4,
         "https://www.metacritic.com/tv/boardwalk-empire": 2,
@@ -11373,7 +11373,7 @@
         "https://www.metacritic.com/tv/twin-peaks": 2,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "StevenJV": {
+    "user336": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 4,
         "https://www.metacritic.com/tv/dirk-gentlys-holistic-detective-agency": 3,
         "https://www.metacritic.com/tv/doctor-who": 3,
@@ -11396,7 +11396,7 @@
         "https://www.metacritic.com/tv/true-blood": 1,
         "https://www.metacritic.com/tv/twin-peaks": 2
     },
-    "stevenwood": {
+    "user337": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/game-of-thrones": 3,
@@ -11405,7 +11405,7 @@
         "https://www.metacritic.com/tv/the-sopranos": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "stmpjmpr": {
+    "user338": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/black-mirror": 2,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -11426,7 +11426,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "toddmck": {
+    "user339": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/breaking-bad": 3,
         "https://www.metacritic.com/tv/downton-abbey": 2,
@@ -11445,7 +11445,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2,
         "https://www.metacritic.com/tv/united-states-of-tara": 1
     },
-    "wrk3": {
+    "user340": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/bojack-horseman": 2,
         "https://www.metacritic.com/tv/doctor-who": 2,
@@ -11457,7 +11457,7 @@
         "https://www.metacritic.com/tv/stranger-things": 3,
         "https://www.metacritic.com/tv/the-prisoner": 4
     },
-    "zekekoch": {
+    "user341": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 2,
         "https://www.metacritic.com/tv/breaking-bad": 2,
         "https://www.metacritic.com/tv/game-of-thrones": 3,
@@ -11469,7 +11469,7 @@
         "https://www.metacritic.com/tv/vikings": 3,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "zhanif72": {
+    "user342": {
         "https://www.metacritic.com/tv/battlestar-galactica-2003": 3,
         "https://www.metacritic.com/tv/black-mirror": 3,
         "https://www.metacritic.com/tv/breaking-bad": 3,
@@ -11509,12 +11509,12 @@
         "https://www.metacritic.com/tv/watchmen-2019": 3,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "_PanchoGonzalez": {
+    "user343": {
         "https://www.metacritic.com/tv/berlin-station": 0,
         "https://www.metacritic.com/tv/black-mirror": 4,
         "https://www.metacritic.com/tv/stranger-things": 4
     },
-    "danlevity": {
+    "user344": {
         "https://www.metacritic.com/tv/berlin-station": 3,
         "https://www.metacritic.com/tv/doctor-who": 3,
         "https://www.metacritic.com/tv/master-of-none": 4,
@@ -11522,11 +11522,11 @@
         "https://www.metacritic.com/tv/sherlock": 4,
         "https://www.metacritic.com/tv/stranger-things": 3
     },
-    "howardliptzin": {
+    "user345": {
         "https://www.metacritic.com/tv/berlin-station": 2,
         "https://www.metacritic.com/tv/fargo": 2
     },
-    "JoeTrippi": {
+    "user346": {
         "https://www.metacritic.com/tv/berlin-station": 3,
         "https://www.metacritic.com/tv/bloodline": 3,
         "https://www.metacritic.com/tv/bosch": 4,
@@ -11540,7 +11540,7 @@
         "https://www.metacritic.com/tv/the-americans": 3,
         "https://www.metacritic.com/tv/the-newsroom": 3
     },
-    "mcmc": {
+    "user347": {
         "https://www.metacritic.com/tv/berlin-station": 2,
         "https://www.metacritic.com/tv/billions": 1,
         "https://www.metacritic.com/tv/black-mirror": 2,
@@ -11566,7 +11566,7 @@
         "https://www.metacritic.com/tv/the-night-manager": 2,
         "https://www.metacritic.com/tv/true-detective": 2
     },
-    "ab_aditya": {
+    "user348": {
         "https://www.metacritic.com/tv/better-call-saul": 2,
         "https://www.metacritic.com/tv/black-mirror": 3,
         "https://www.metacritic.com/tv/breaking-bad": 2,
@@ -11576,7 +11576,7 @@
         "https://www.metacritic.com/tv/stranger-things": 2,
         "https://www.metacritic.com/tv/suits": 2
     },
-    "calvincorreli": {
+    "user349": {
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/billions": 1,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -11594,14 +11594,14 @@
         "https://www.metacritic.com/tv/twin-peaks": 3,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "dipikabh": {
+    "user350": {
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/bojack-horseman": 2,
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/broadchurch": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "Facturame": {
+    "user351": {
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/big-little-lies": 3,
         "https://www.metacritic.com/tv/billions": 1,
@@ -11638,7 +11638,7 @@
         "https://www.metacritic.com/tv/true-detective": 4,
         "https://www.metacritic.com/tv/twin-peaks": 3
     },
-    "faseidl": {
+    "user352": {
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/black-mirror": 2,
         "https://www.metacritic.com/tv/bloodline": 2,
@@ -11660,7 +11660,7 @@
         "https://www.metacritic.com/tv/true-blood": 2,
         "https://www.metacritic.com/tv/weeds": 3
     },
-    "fredtaub": {
+    "user353": {
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/big-love": 3,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -11668,7 +11668,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/weeds": 3
     },
-    "garydenness": {
+    "user354": {
         "https://www.metacritic.com/tv/better-call-saul": 2,
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/broadchurch": 2,
@@ -11687,7 +11687,7 @@
         "https://www.metacritic.com/tv/the-night-manager": 3,
         "https://www.metacritic.com/tv/true-detective": 2
     },
-    "GrayDear": {
+    "user355": {
         "https://www.metacritic.com/tv/better-call-saul": 2,
         "https://www.metacritic.com/tv/breaking-bad": 2,
         "https://www.metacritic.com/tv/dexter": 1,
@@ -11713,7 +11713,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 2,
         "https://www.metacritic.com/tv/the-wire": 2
     },
-    "jhoeforth": {
+    "user356": {
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/friends": 3,
@@ -11738,7 +11738,7 @@
         "https://www.metacritic.com/tv/veep": 2,
         "https://www.metacritic.com/tv/weeds": 2
     },
-    "JMcanespy": {
+    "user357": {
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/black-books": 2,
         "https://www.metacritic.com/tv/black-sails": 4,
@@ -11759,7 +11759,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 3,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "JohnHarnett": {
+    "user358": {
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/black-mirror": 1,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -11779,7 +11779,7 @@
         "https://www.metacritic.com/tv/true-detective": 1,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "lizasperling": {
+    "user359": {
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/big-little-lies": 3,
         "https://www.metacritic.com/tv/big-love": 4,
@@ -11810,7 +11810,7 @@
         "https://www.metacritic.com/tv/tiger-king-murder-mayhem-and-madness": 3,
         "https://www.metacritic.com/tv/top-chef": 3
     },
-    "Mickeleh": {
+    "user360": {
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/broadchurch": 3,
@@ -11834,7 +11834,7 @@
         "https://www.metacritic.com/tv/under-the-dome": 1,
         "https://www.metacritic.com/tv/will-grace": 2
     },
-    "MikeStearns": {
+    "user361": {
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/mad-men": 3,
         "https://www.metacritic.com/tv/mozart-in-the-jungle": 1,
@@ -11842,7 +11842,7 @@
         "https://www.metacritic.com/tv/olive-kitteridge": 4,
         "https://www.metacritic.com/tv/orphan-black": 2
     },
-    "mossspiek": {
+    "user362": {
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/breaking-bad": 3,
         "https://www.metacritic.com/tv/brooklyn-nine-nine": 3,
@@ -11860,7 +11860,7 @@
         "https://www.metacritic.com/tv/true-detective": 4,
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2
     },
-    "ollibreuer": {
+    "user363": {
         "https://www.metacritic.com/tv/better-call-saul": 2,
         "https://www.metacritic.com/tv/bloodline": 1,
         "https://www.metacritic.com/tv/boardwalk-empire": 2,
@@ -11889,7 +11889,7 @@
         "https://www.metacritic.com/tv/true-detective": 3,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "PPellenaars": {
+    "user364": {
         "https://www.metacritic.com/tv/better-call-saul": 2,
         "https://www.metacritic.com/tv/breaking-bad": 3,
         "https://www.metacritic.com/tv/deadwood": 3,
@@ -11906,7 +11906,7 @@
         "https://www.metacritic.com/tv/top-of-the-lake": 3,
         "https://www.metacritic.com/tv/twin-peaks": 4
     },
-    "reedreeder": {
+    "user365": {
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/game-of-thrones": 4,
@@ -11914,7 +11914,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 3,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "rkrato": {
+    "user366": {
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/big-little-lies": 3,
         "https://www.metacritic.com/tv/big-love": 2,
@@ -11943,7 +11943,7 @@
         "https://www.metacritic.com/tv/weeds": 3,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "salgernon": {
+    "user367": {
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/breaking-bad": 3,
         "https://www.metacritic.com/tv/chernobyl": 4,
@@ -11968,7 +11968,7 @@
         "https://www.metacritic.com/tv/the-x-files": 4,
         "https://www.metacritic.com/tv/tiger-king-murder-mayhem-and-madness": 1
     },
-    "sashk": {
+    "user368": {
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/dexter": 1,
@@ -11983,7 +11983,7 @@
         "https://www.metacritic.com/tv/the-sopranos": 3,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "sivabalans": {
+    "user369": {
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/breaking-bad": 3,
         "https://www.metacritic.com/tv/game-of-thrones": 2,
@@ -12001,7 +12001,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/weeds": 2
     },
-    "taugenstein": {
+    "user370": {
         "https://www.metacritic.com/tv/better-call-saul": 2,
         "https://www.metacritic.com/tv/boardwalk-empire": 3,
         "https://www.metacritic.com/tv/breaking-bad": 4,
@@ -12018,7 +12018,7 @@
         "https://www.metacritic.com/tv/true-detective": 3,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "trishanderton": {
+    "user371": {
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/deadwood": 4,
         "https://www.metacritic.com/tv/downton-abbey": 1,
@@ -12028,7 +12028,7 @@
         "https://www.metacritic.com/tv/orange-is-the-new-black": 3,
         "https://www.metacritic.com/tv/parks-and-recreation": 4
     },
-    "waynekdr": {
+    "user372": {
         "https://www.metacritic.com/tv/better-call-saul": 4,
         "https://www.metacritic.com/tv/boardwalk-empire": 4,
         "https://www.metacritic.com/tv/bosch": 3,
@@ -12061,7 +12061,7 @@
         "https://www.metacritic.com/tv/weeds": 2,
         "https://www.metacritic.com/tv/westworld": 1
     },
-    "xlcrs": {
+    "user373": {
         "https://www.metacritic.com/tv/better-call-saul": 3,
         "https://www.metacritic.com/tv/breaking-bad": 3,
         "https://www.metacritic.com/tv/mindhunter": 2,
@@ -12069,7 +12069,7 @@
         "https://www.metacritic.com/tv/stranger-things": 4,
         "https://www.metacritic.com/tv/the-west-wing": 3
     },
-    "carlandcole": {
+    "user374": {
         "https://www.metacritic.com/tv/big-brother": 0,
         "https://www.metacritic.com/tv/big-little-lies": 3,
         "https://www.metacritic.com/tv/game-of-thrones": 1,
@@ -12095,7 +12095,7 @@
         "https://www.metacritic.com/tv/weeds": 3,
         "https://www.metacritic.com/tv/young-sheldon": 2
     },
-    "DrFran": {
+    "user375": {
         "https://www.metacritic.com/tv/big-little-lies": 4,
         "https://www.metacritic.com/tv/black-mirror": 3,
         "https://www.metacritic.com/tv/breaking-bad": 3,
@@ -12108,7 +12108,7 @@
         "https://www.metacritic.com/tv/the-umbrella-academy": 3,
         "https://www.metacritic.com/tv/the-walking-dead": 4
     },
-    "fourcultures": {
+    "user376": {
         "https://www.metacritic.com/tv/big-little-lies": 4,
         "https://www.metacritic.com/tv/black-mirror": 3,
         "https://www.metacritic.com/tv/fargo": 3,
@@ -12123,12 +12123,12 @@
         "https://www.metacritic.com/tv/the-night-manager": 3,
         "https://www.metacritic.com/tv/vikings": 2
     },
-    "chartove": {
+    "user377": {
         "https://www.metacritic.com/tv/billions": 2,
         "https://www.metacritic.com/tv/breaking-bad": 3,
         "https://www.metacritic.com/tv/the-sopranos": 4
     },
-    "consultmatt": {
+    "user378": {
         "https://www.metacritic.com/tv/billions": 3,
         "https://www.metacritic.com/tv/black-mirror": 4,
         "https://www.metacritic.com/tv/designated-survivor": 3,
@@ -12137,7 +12137,7 @@
         "https://www.metacritic.com/tv/veep": 4,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "fuffenz": {
+    "user379": {
         "https://www.metacritic.com/tv/billions": 2,
         "https://www.metacritic.com/tv/broadchurch": 2,
         "https://www.metacritic.com/tv/dead-like-me": 2,
@@ -12157,7 +12157,7 @@
         "https://www.metacritic.com/tv/veep": 2,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "cwl_cc": {
+    "user380": {
         "https://www.metacritic.com/tv/black-mirror": 4,
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/game-of-thrones": 1,
@@ -12168,7 +12168,7 @@
         "https://www.metacritic.com/tv/sherlock": 4,
         "https://www.metacritic.com/tv/silicon-valley": 3
     },
-    "eleventhvolume": {
+    "user381": {
         "https://www.metacritic.com/tv/black-mirror": 2,
         "https://www.metacritic.com/tv/breaking-bad": 1,
         "https://www.metacritic.com/tv/northern-exposure": 2,
@@ -12180,14 +12180,14 @@
         "https://www.metacritic.com/tv/the-west-wing": 3,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "kyledhebert": {
+    "user382": {
         "https://www.metacritic.com/tv/black-mirror": 2
     },
-    "Lucie_Dom": {
+    "user383": {
         "https://www.metacritic.com/tv/black-mirror": 3,
         "https://www.metacritic.com/tv/breaking-bad": 4
     },
-    "mapopescu": {
+    "user384": {
         "https://www.metacritic.com/tv/black-mirror": 2,
         "https://www.metacritic.com/tv/bosch": 3,
         "https://www.metacritic.com/tv/californication": 2,
@@ -12218,7 +12218,7 @@
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2,
         "https://www.metacritic.com/tv/weeds": 3
     },
-    "neilmatheson": {
+    "user385": {
         "https://www.metacritic.com/tv/black-mirror": 3,
         "https://www.metacritic.com/tv/borgen": 3,
         "https://www.metacritic.com/tv/bosch": 2,
@@ -12239,7 +12239,7 @@
         "https://www.metacritic.com/tv/veep": 2,
         "https://www.metacritic.com/tv/will-grace": 1
     },
-    "s_b_hunter": {
+    "user386": {
         "https://www.metacritic.com/tv/black-mirror": 2,
         "https://www.metacritic.com/tv/curb-your-enthusiasm": 3,
         "https://www.metacritic.com/tv/deadwood": 2,
@@ -12280,7 +12280,7 @@
         "https://www.metacritic.com/tv/veronica-mars": 2,
         "https://www.metacritic.com/tv/will-grace": 2
     },
-    "SustainedNZ": {
+    "user387": {
         "https://www.metacritic.com/tv/black-mirror": 3,
         "https://www.metacritic.com/tv/breaking-bad": 3,
         "https://www.metacritic.com/tv/broadchurch": 2,
@@ -12328,7 +12328,7 @@
         "https://www.metacritic.com/tv/veronica-mars": 2,
         "https://www.metacritic.com/tv/westworld": 3
     },
-    "taparam": {
+    "user388": {
         "https://www.metacritic.com/tv/black-mirror": 3,
         "https://www.metacritic.com/tv/fargo": 3,
         "https://www.metacritic.com/tv/mad-men": 3,
@@ -12337,7 +12337,7 @@
         "https://www.metacritic.com/tv/sherlock": 3,
         "https://www.metacritic.com/tv/stranger-things": 4
     },
-    "Theadora6": {
+    "user389": {
         "https://www.metacritic.com/tv/black-mirror": 2,
         "https://www.metacritic.com/tv/breaking-bad": 3,
         "https://www.metacritic.com/tv/brooklyn-nine-nine": 2,
@@ -12374,7 +12374,7 @@
         "https://www.metacritic.com/tv/westworld": 2,
         "https://www.metacritic.com/tv/will-grace": 2
     },
-    "theboxfactory": {
+    "user390": {
         "https://www.metacritic.com/tv/black-mirror": 3,
         "https://www.metacritic.com/tv/broadchurch": 2,
         "https://www.metacritic.com/tv/chernobyl": 3,
@@ -12391,7 +12391,7 @@
         "https://www.metacritic.com/tv/the-night-manager": 2,
         "https://www.metacritic.com/tv/the-office-uk": 4
     },
-    "thej": {
+    "user391": {
         "https://www.metacritic.com/tv/black-mirror": 2,
         "https://www.metacritic.com/tv/designated-survivor": 2,
         "https://www.metacritic.com/tv/dexter": 2,
@@ -12401,7 +12401,7 @@
         "https://www.metacritic.com/tv/the-good-wife": 2,
         "https://www.metacritic.com/tv/will-grace": 2
     },
-    "y_lohse": {
+    "user392": {
         "https://www.metacritic.com/tv/black-mirror": 3,
         "https://www.metacritic.com/tv/breaking-bad": 1,
         "https://www.metacritic.com/tv/californication": 2,
@@ -12424,12 +12424,12 @@
         "https://www.metacritic.com/tv/vikings": 0,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "Orangwutang": {
+    "user393": {
         "https://www.metacritic.com/tv/bloodline": 1,
         "https://www.metacritic.com/tv/breaking-bad": 3,
         "https://www.metacritic.com/tv/fargo": 3
     },
-    "bullmancuso": {
+    "user394": {
         "https://www.metacritic.com/tv/boardwalk-empire": 3,
         "https://www.metacritic.com/tv/godless": 2,
         "https://www.metacritic.com/tv/hannibal": 4,
@@ -12448,7 +12448,7 @@
         "https://www.metacritic.com/tv/peaky-blinders": 3,
         "https://www.metacritic.com/tv/the-sopranos": 4
     },
-    "rubywhite": {
+    "user395": {
         "https://www.metacritic.com/tv/boardwalk-empire": 2,
         "https://www.metacritic.com/tv/deadwood": 3,
         "https://www.metacritic.com/tv/doctor-who": 3,
@@ -12457,7 +12457,7 @@
         "https://www.metacritic.com/tv/sherlock": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "ghoppe": {
+    "user396": {
         "https://www.metacritic.com/tv/bojack-horseman": 3,
         "https://www.metacritic.com/tv/dirk-gentlys-holistic-detective-agency": 3,
         "https://www.metacritic.com/tv/glow": 4,
@@ -12468,7 +12468,7 @@
         "https://www.metacritic.com/tv/the-expanse": 3,
         "https://www.metacritic.com/tv/the-leftovers": 4
     },
-    "robinjescott": {
+    "user397": {
         "https://www.metacritic.com/tv/bojack-horseman": 0,
         "https://www.metacritic.com/tv/breaking-bad": 1,
         "https://www.metacritic.com/tv/dexter": 0,
@@ -12490,7 +12490,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "frank_leahy": {
+    "user398": {
         "https://www.metacritic.com/tv/borgen": 3,
         "https://www.metacritic.com/tv/bosch": 3,
         "https://www.metacritic.com/tv/broadchurch": 1,
@@ -12509,7 +12509,7 @@
         "https://www.metacritic.com/tv/the-crown": 4,
         "https://www.metacritic.com/tv/this-is-us": 4
     },
-    "ScottHansonDE": {
+    "user399": {
         "https://www.metacritic.com/tv/borgen": 4,
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/deutschland-83": 3,
@@ -12520,7 +12520,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/young-wallander": 2
     },
-    "clsnyder": {
+    "user400": {
         "https://www.metacritic.com/tv/bosch": 4,
         "https://www.metacritic.com/tv/broadchurch": 3,
         "https://www.metacritic.com/tv/chernobyl": 2,
@@ -12532,7 +12532,7 @@
         "https://www.metacritic.com/tv/mindhunter": 3,
         "https://www.metacritic.com/tv/the-expanse": 4
     },
-    "RonKJeffries": {
+    "user401": {
         "https://www.metacritic.com/tv/bosch": 3,
         "https://www.metacritic.com/tv/breaking-bad": 3,
         "https://www.metacritic.com/tv/broadchurch": 2,
@@ -12560,7 +12560,7 @@
         "https://www.metacritic.com/tv/the-night-manager": 3,
         "https://www.metacritic.com/tv/the-west-wing": 3
     },
-    "sjudd": {
+    "user402": {
         "https://www.metacritic.com/tv/bosch": 3,
         "https://www.metacritic.com/tv/designated-survivor": 1,
         "https://www.metacritic.com/tv/fringe": 3,
@@ -12569,27 +12569,27 @@
         "https://www.metacritic.com/tv/stranger-things": 3,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "colorfuldata": {
+    "user403": {
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/stranger-things": 3,
         "https://www.metacritic.com/tv/the-expanse": 2,
         "https://www.metacritic.com/tv/the-sopranos": 4
     },
-    "crayfish21": {
+    "user404": {
         "https://www.metacritic.com/tv/breaking-bad": 2
     },
-    "darkwookiee": {
+    "user405": {
         "https://www.metacritic.com/tv/breaking-bad": 4
     },
-    "dave_r_buchanan": {
+    "user406": {
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/mr-robot": 4
     },
-    "davepbass": {
+    "user407": {
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "frankmeeuwsen": {
+    "user408": {
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/freaks-and-geeks": 2,
         "https://www.metacritic.com/tv/game-of-thrones": 4,
@@ -12599,19 +12599,19 @@
         "https://www.metacritic.com/tv/under-the-dome": 1,
         "https://www.metacritic.com/tv/will-grace": 3
     },
-    "FZelders": {
+    "user409": {
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/game-of-thrones": 3,
         "https://www.metacritic.com/tv/the-100": 3
     },
-    "ibmwismar": {
+    "user410": {
         "https://www.metacritic.com/tv/breaking-bad": 3,
         "https://www.metacritic.com/tv/firefly": 3,
         "https://www.metacritic.com/tv/game-of-thrones": 3,
         "https://www.metacritic.com/tv/stranger-things": 3,
         "https://www.metacritic.com/tv/the-west-wing": 2
     },
-    "jessas": {
+    "user411": {
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/curb-your-enthusiasm": 2,
         "https://www.metacritic.com/tv/entourage": 3,
@@ -12623,24 +12623,24 @@
         "https://www.metacritic.com/tv/the-sopranos": 4,
         "https://www.metacritic.com/tv/the-west-wing": 4
     },
-    "jonny_yesyes": {
+    "user412": {
         "https://www.metacritic.com/tv/breaking-bad": 2,
         "https://www.metacritic.com/tv/fleabag": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "kevinhughes": {
+    "user413": {
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/the-handmaids-tale": 3,
         "https://www.metacritic.com/tv/the-sopranos": 3,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "lexjansen": {
+    "user414": {
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/nurse-jackie": 3,
         "https://www.metacritic.com/tv/the-sopranos": 4,
         "https://www.metacritic.com/tv/treme": 4
     },
-    "libovness": {
+    "user415": {
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/curb-your-enthusiasm": 2,
         "https://www.metacritic.com/tv/homeland": 0,
@@ -12651,11 +12651,11 @@
         "https://www.metacritic.com/tv/top-chef": 3,
         "https://www.metacritic.com/tv/true-detective": 2
     },
-    "luci3n_": {
+    "user416": {
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/mr-robot": 4
     },
-    "m3mnoch": {
+    "user417": {
         "https://www.metacritic.com/tv/breaking-bad": 2,
         "https://www.metacritic.com/tv/firefly": 4,
         "https://www.metacritic.com/tv/futurama": 1,
@@ -12672,18 +12672,18 @@
         "https://www.metacritic.com/tv/the-west-wing": 3,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "manutastic": {
+    "user418": {
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/sherlock": 1
     },
-    "MarkDucety": {
+    "user419": {
         "https://www.metacritic.com/tv/breaking-bad": 3,
         "https://www.metacritic.com/tv/deadwood": 3,
         "https://www.metacritic.com/tv/fargo": 2,
         "https://www.metacritic.com/tv/stranger-things": 2,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "mikelevin": {
+    "user420": {
         "https://www.metacritic.com/tv/breaking-bad": 2,
         "https://www.metacritic.com/tv/doctor-who": 0,
         "https://www.metacritic.com/tv/fargo": 2,
@@ -12697,7 +12697,7 @@
         "https://www.metacritic.com/tv/twin-peaks": 2,
         "https://www.metacritic.com/tv/will-grace": 1
     },
-    "scottradcliff": {
+    "user421": {
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/game-of-thrones": 3,
         "https://www.metacritic.com/tv/halt-and-catch-fire": 4,
@@ -12705,7 +12705,7 @@
         "https://www.metacritic.com/tv/silicon-valley": 2,
         "https://www.metacritic.com/tv/stranger-things": 3
     },
-    "sourcetonuts": {
+    "user422": {
         "https://www.metacritic.com/tv/breaking-bad": 4,
         "https://www.metacritic.com/tv/dexter": 3,
         "https://www.metacritic.com/tv/fargo": 4,
@@ -12723,7 +12723,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 2,
         "https://www.metacritic.com/tv/vikings": 2
     },
-    "thxjava": {
+    "user423": {
         "https://www.metacritic.com/tv/breaking-bad": 2,
         "https://www.metacritic.com/tv/doctor-who": 4,
         "https://www.metacritic.com/tv/downton-abbey": 3,
@@ -12741,16 +12741,16 @@
         "https://www.metacritic.com/tv/twin-peaks": 3,
         "https://www.metacritic.com/tv/under-the-dome": 1
     },
-    "unstablefears": {
+    "user424": {
         "https://www.metacritic.com/tv/breaking-bad": 0
     },
-    "zbelko": {
+    "user425": {
         "https://www.metacritic.com/tv/breaking-bad": 3,
         "https://www.metacritic.com/tv/chernobyl": 3,
         "https://www.metacritic.com/tv/game-of-thrones": 3,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "david3smith": {
+    "user426": {
         "https://www.metacritic.com/tv/broadchurch": 2,
         "https://www.metacritic.com/tv/burn-notice": 3,
         "https://www.metacritic.com/tv/designated-survivor": 2,
@@ -12789,7 +12789,7 @@
         "https://www.metacritic.com/tv/watchmen-2019": 3,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "estedestirr": {
+    "user427": {
         "https://www.metacritic.com/tv/broadchurch": 2,
         "https://www.metacritic.com/tv/designated-survivor": 2,
         "https://www.metacritic.com/tv/doctor-who": 4,
@@ -12798,7 +12798,7 @@
         "https://www.metacritic.com/tv/marvels-the-defenders": 2,
         "https://www.metacritic.com/tv/sherlock": 2
     },
-    "loecknitzp": {
+    "user428": {
         "https://www.metacritic.com/tv/broadchurch": 3,
         "https://www.metacritic.com/tv/designated-survivor": 1,
         "https://www.metacritic.com/tv/halt-and-catch-fire": 4,
@@ -12814,7 +12814,7 @@
         "https://www.metacritic.com/tv/unorthodox": 3,
         "https://www.metacritic.com/tv/vikings": 3
     },
-    "markjgardner": {
+    "user429": {
         "https://www.metacritic.com/tv/broadchurch": 2,
         "https://www.metacritic.com/tv/doctor-who": 3,
         "https://www.metacritic.com/tv/farscape": 3,
@@ -12832,17 +12832,17 @@
         "https://www.metacritic.com/tv/southern-charm": 1,
         "https://www.metacritic.com/tv/top-chef": 2
     },
-    "mdransfield": {
+    "user430": {
         "https://www.metacritic.com/tv/broadchurch": 3,
         "https://www.metacritic.com/tv/firefly": 4,
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "mistersugar": {
+    "user431": {
         "https://www.metacritic.com/tv/broadchurch": 3,
         "https://www.metacritic.com/tv/the-morning-show": 2
     },
-    "paulkesselman": {
+    "user432": {
         "https://www.metacritic.com/tv/broadchurch": 3,
         "https://www.metacritic.com/tv/brooklyn-nine-nine": 3,
         "https://www.metacritic.com/tv/curb-your-enthusiasm": 3,
@@ -12867,7 +12867,7 @@
         "https://www.metacritic.com/tv/will-grace": 2,
         "https://www.metacritic.com/tv/youre-the-worst": 2
     },
-    "steveivy": {
+    "user433": {
         "https://www.metacritic.com/tv/broadchurch": 2,
         "https://www.metacritic.com/tv/doctor-who": 4,
         "https://www.metacritic.com/tv/eureka": 3,
@@ -12883,7 +12883,7 @@
         "https://www.metacritic.com/tv/stranger-things": 4,
         "https://www.metacritic.com/tv/the-blacklist": 2
     },
-    "aworks": {
+    "user434": {
         "https://www.metacritic.com/tv/californication": 2,
         "https://www.metacritic.com/tv/girls": 1,
         "https://www.metacritic.com/tv/grace-and-frankie": 2,
@@ -12892,16 +12892,16 @@
         "https://www.metacritic.com/tv/seinfeld": 2,
         "https://www.metacritic.com/tv/the-man-in-the-high-castle": 3
     },
-    "sandipb": {
+    "user435": {
         "https://www.metacritic.com/tv/carnival-row": 3
     },
-    "owenthomas_": {
+    "user436": {
         "https://www.metacritic.com/tv/catastrophe": 3
     },
-    "b05crypto": {
+    "user437": {
         "https://www.metacritic.com/tv/chernobyl": 4
     },
-    "gunnarr": {
+    "user438": {
         "https://www.metacritic.com/tv/chernobyl": 4,
         "https://www.metacritic.com/tv/mad-men": 4,
         "https://www.metacritic.com/tv/seinfeld": 3,
@@ -12909,7 +12909,7 @@
         "https://www.metacritic.com/tv/the-newsroom": 4,
         "https://www.metacritic.com/tv/the-west-wing": 4
     },
-    "danbarnes": {
+    "user439": {
         "https://www.metacritic.com/tv/covert-affairs": 3,
         "https://www.metacritic.com/tv/downton-abbey": 3,
         "https://www.metacritic.com/tv/mr-robot": 3,
@@ -12921,13 +12921,13 @@
         "https://www.metacritic.com/tv/the-newsroom": 4,
         "https://www.metacritic.com/tv/the-west-wing": 4
     },
-    "composer313": {
+    "user440": {
         "https://www.metacritic.com/tv/curb-your-enthusiasm": 2
     },
-    "unclespeedo": {
+    "user441": {
         "https://www.metacritic.com/tv/curb-your-enthusiasm": 4
     },
-    "iambigdave": {
+    "user442": {
         "https://www.metacritic.com/tv/deadwood": 2,
         "https://www.metacritic.com/tv/fleabag": 3,
         "https://www.metacritic.com/tv/its-garry-shandlings-show": 3,
@@ -12935,7 +12935,7 @@
         "https://www.metacritic.com/tv/stranger-things": 3,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "bph": {
+    "user443": {
         "https://www.metacritic.com/tv/designated-survivor": 2,
         "https://www.metacritic.com/tv/downton-abbey": 3,
         "https://www.metacritic.com/tv/firefly": 4,
@@ -12956,12 +12956,12 @@
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/weeds": 3
     },
-    "Jacobr": {
+    "user444": {
         "https://www.metacritic.com/tv/designated-survivor": 2,
         "https://www.metacritic.com/tv/downton-abbey": 3,
         "https://www.metacritic.com/tv/the-office": 3
     },
-    "slross": {
+    "user445": {
         "https://www.metacritic.com/tv/designated-survivor": 2,
         "https://www.metacritic.com/tv/downton-abbey": 3,
         "https://www.metacritic.com/tv/friends": 2,
@@ -12981,10 +12981,10 @@
         "https://www.metacritic.com/tv/top-chef": 2,
         "https://www.metacritic.com/tv/will-grace": 2
     },
-    "SnowPlay3": {
+    "user446": {
         "https://www.metacritic.com/tv/designated-survivor": 3
     },
-    "fdilke": {
+    "user447": {
         "https://www.metacritic.com/tv/devs": 2,
         "https://www.metacritic.com/tv/dexter": 2,
         "https://www.metacritic.com/tv/mindhunter": 3,
@@ -13007,17 +13007,17 @@
         "https://www.metacritic.com/tv/watchmen-2019": 2,
         "https://www.metacritic.com/tv/westworld": 1
     },
-    "potentato": {
+    "user448": {
         "https://www.metacritic.com/tv/doctor-who": 3
     },
-    "matthewtarr": {
+    "user449": {
         "https://www.metacritic.com/tv/downton-abbey": 4,
         "https://www.metacritic.com/tv/game-of-thrones": 4,
         "https://www.metacritic.com/tv/mad-men": 4,
         "https://www.metacritic.com/tv/mr-robot": 3,
         "https://www.metacritic.com/tv/planet-earth": 3
     },
-    "iolairemcfadden": {
+    "user450": {
         "https://www.metacritic.com/tv/everything-sucks!": 3,
         "https://www.metacritic.com/tv/hanna-2019": 2,
         "https://www.metacritic.com/tv/outlander-2014": 2,
@@ -13025,7 +13025,7 @@
         "https://www.metacritic.com/tv/the-marvelous-mrs-maisel": 3,
         "https://www.metacritic.com/tv/vikings": 2
     },
-    "davork": {
+    "user451": {
         "https://www.metacritic.com/tv/farscape": 2,
         "https://www.metacritic.com/tv/firefly": 4,
         "https://www.metacritic.com/tv/fringe": 3,
@@ -13046,22 +13046,22 @@
         "https://www.metacritic.com/tv/true-blood": 4,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "drnovac": {
+    "user452": {
         "https://www.metacritic.com/tv/fauda": 3
     },
-    "aaronaxvig": {
+    "user453": {
         "https://www.metacritic.com/tv/firefly": 3,
         "https://www.metacritic.com/tv/game-of-thrones": 3,
         "https://www.metacritic.com/tv/the-expanse": 3,
         "https://www.metacritic.com/tv/trailer-park-boys": 4
     },
-    "actuallyconor": {
+    "user454": {
         "https://www.metacritic.com/tv/firefly": 4,
         "https://www.metacritic.com/tv/game-of-thrones": 4,
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "bagelche": {
+    "user455": {
         "https://www.metacritic.com/tv/firefly": 3,
         "https://www.metacritic.com/tv/freaks-and-geeks": 3,
         "https://www.metacritic.com/tv/gilmore-girls": 2,
@@ -13071,13 +13071,13 @@
         "https://www.metacritic.com/tv/sherlock": 3,
         "https://www.metacritic.com/tv/silicon-valley": 3
     },
-    "campbelljapan": {
+    "user456": {
         "https://www.metacritic.com/tv/firefly": 3,
         "https://www.metacritic.com/tv/sherlock": 3,
         "https://www.metacritic.com/tv/the-sopranos": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "fcurella": {
+    "user457": {
         "https://www.metacritic.com/tv/firefly": 4,
         "https://www.metacritic.com/tv/fringe": 4,
         "https://www.metacritic.com/tv/gilmore-girls": 3,
@@ -13088,7 +13088,7 @@
         "https://www.metacritic.com/tv/orange-is-the-new-black": 4,
         "https://www.metacritic.com/tv/veronica-mars": 2
     },
-    "LesBain": {
+    "user458": {
         "https://www.metacritic.com/tv/firefly": 3,
         "https://www.metacritic.com/tv/madam-secretary": 4,
         "https://www.metacritic.com/tv/mr-robot": 4,
@@ -13098,12 +13098,12 @@
         "https://www.metacritic.com/tv/the-west-wing": 2,
         "https://www.metacritic.com/tv/vikings": 2
     },
-    "nmorris": {
+    "user459": {
         "https://www.metacritic.com/tv/firefly": 3,
         "https://www.metacritic.com/tv/marco-polo-2014": 2,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "rodjbrandt": {
+    "user460": {
         "https://www.metacritic.com/tv/firefly": 4,
         "https://www.metacritic.com/tv/game-of-thrones": 3,
         "https://www.metacritic.com/tv/mr-robot": 3,
@@ -13112,11 +13112,11 @@
         "https://www.metacritic.com/tv/the-expanse": 3,
         "https://www.metacritic.com/tv/the-sopranos": 4
     },
-    "marqueymarc": {
+    "user461": {
         "https://www.metacritic.com/tv/fleabag": 4,
         "https://www.metacritic.com/tv/sherlock": 4
     },
-    "_lanceparker": {
+    "user462": {
         "https://www.metacritic.com/tv/friday-night-lights": 2,
         "https://www.metacritic.com/tv/fringe": 4,
         "https://www.metacritic.com/tv/once-upon-a-time": 2,
@@ -13124,7 +13124,7 @@
         "https://www.metacritic.com/tv/stargate-atlantis": 2,
         "https://www.metacritic.com/tv/stranger-things": 3
     },
-    "ccb10vt": {
+    "user463": {
         "https://www.metacritic.com/tv/friday-night-lights": 3,
         "https://www.metacritic.com/tv/game-of-thrones": 1,
         "https://www.metacritic.com/tv/justified": 2,
@@ -13136,7 +13136,7 @@
         "https://www.metacritic.com/tv/the-west-wing": 3,
         "https://www.metacritic.com/tv/the-wire": 3
     },
-    "rallyp": {
+    "user464": {
         "https://www.metacritic.com/tv/friday-night-lights": 4,
         "https://www.metacritic.com/tv/seinfeld": 3,
         "https://www.metacritic.com/tv/silicon-valley": 4,
@@ -13145,7 +13145,7 @@
         "https://www.metacritic.com/tv/the-office-uk": 4,
         "https://www.metacritic.com/tv/the-west-wing": 3
     },
-    "casgon": {
+    "user465": {
         "https://www.metacritic.com/tv/friends": 3,
         "https://www.metacritic.com/tv/game-of-thrones": 3,
         "https://www.metacritic.com/tv/making-a-murderer": 3,
@@ -13154,25 +13154,25 @@
         "https://www.metacritic.com/tv/sense8": 3,
         "https://www.metacritic.com/tv/stranger-things": 3
     },
-    "douglass_os": {
+    "user466": {
         "https://www.metacritic.com/tv/frontline": 4
     },
-    "ericries": {
+    "user467": {
         "https://www.metacritic.com/tv/game-of-thrones": 3,
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "jmarovt": {
+    "user468": {
         "https://www.metacritic.com/tv/game-of-thrones": 4,
         "https://www.metacritic.com/tv/sherlock": 1
     },
-    "davkolb": {
+    "user469": {
         "https://www.metacritic.com/tv/good-omens": 3
     },
-    "nmuppala": {
+    "user470": {
         "https://www.metacritic.com/tv/immigration-nation": 2
     },
-    "PaulJHickey": {
+    "user471": {
         "https://www.metacritic.com/tv/mad-men": 4,
         "https://www.metacritic.com/tv/ray-donovan": 3,
         "https://www.metacritic.com/tv/sherlock": 4,
@@ -13180,26 +13180,26 @@
         "https://www.metacritic.com/tv/the-night-manager": 4,
         "https://www.metacritic.com/tv/westworld": 4
     },
-    "dpalmer_dave": {
+    "user472": {
         "https://www.metacritic.com/tv/marco-polo-2014": 2,
         "https://www.metacritic.com/tv/the-good-wife": 3,
         "https://www.metacritic.com/tv/the-wire": 3
     },
-    "ftrain": {
+    "user473": {
         "https://www.metacritic.com/tv/mindhunter": 3,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "minorjive": {
+    "user474": {
         "https://www.metacritic.com/tv/mr-robot": 3,
         "https://www.metacritic.com/tv/orphan-black": 4
     },
-    "dmatchett": {
+    "user475": {
         "https://www.metacritic.com/tv/mythic-quest-ravens-banquet": 2,
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/the-wire": 4,
         "https://www.metacritic.com/tv/unbreakable-kimmy-schmidt": 2
     },
-    "berzerkeley": {
+    "user476": {
         "https://www.metacritic.com/tv/orange-is-the-new-black": 2,
         "https://www.metacritic.com/tv/six-feet-under": 2,
         "https://www.metacritic.com/tv/stranger-things": 4,
@@ -13210,28 +13210,28 @@
         "https://www.metacritic.com/tv/twin-peaks": 4,
         "https://www.metacritic.com/tv/weeds": 2
     },
-    "gutniske": {
+    "user477": {
         "https://www.metacritic.com/tv/ozark": 2
     },
-    "ccb18Vt": {
+    "user478": {
         "https://www.metacritic.com/tv/seinfeld": 0
     },
-    "thekenshow": {
+    "user479": {
         "https://www.metacritic.com/tv/sense8": 3
     },
-    "RAYHOWE56507863": {
+    "user480": {
         "https://www.metacritic.com/tv/shameless-uk": 4,
         "https://www.metacritic.com/tv/the-west-wing": 4,
         "https://www.metacritic.com/tv/the-wire": 3
     },
-    "cjrivard": {
+    "user481": {
         "https://www.metacritic.com/tv/sherlock": 4,
         "https://www.metacritic.com/tv/sports-night": 4,
         "https://www.metacritic.com/tv/the-night-manager": 3,
         "https://www.metacritic.com/tv/treme": 3,
         "https://www.metacritic.com/tv/weeds": 2
     },
-    "egottheil": {
+    "user482": {
         "https://www.metacritic.com/tv/sherlock": 2,
         "https://www.metacritic.com/tv/sports-night": 4,
         "https://www.metacritic.com/tv/star-trek-the-next-generation": 3,
@@ -13239,11 +13239,11 @@
         "https://www.metacritic.com/tv/the-good-wife": 2,
         "https://www.metacritic.com/tv/the-west-wing": 4
     },
-    "mal": {
+    "user483": {
         "https://www.metacritic.com/tv/star-trek-picard": 3,
         "https://www.metacritic.com/tv/the-morning-show": 2
     },
-    "andrzej_jozwik": {
+    "user484": {
         "https://www.metacritic.com/tv/stargate-sg-1": 1,
         "https://www.metacritic.com/tv/succession": 4,
         "https://www.metacritic.com/tv/the-leftovers": 4,
@@ -13253,73 +13253,73 @@
         "https://www.metacritic.com/tv/watchmen-2019": 2,
         "https://www.metacritic.com/tv/westworld": 2
     },
-    "randolphwilliam": {
+    "user485": {
         "https://www.metacritic.com/tv/stranger-things": 4
     },
-    "renshaw330": {
+    "user486": {
         "https://www.metacritic.com/tv/stranger-things": 4,
         "https://www.metacritic.com/tv/the-office": 4
     },
-    "techtidbitsme": {
+    "user487": {
         "https://www.metacritic.com/tv/stranger-things": 4
     },
-    "MidnightRyder": {
+    "user488": {
         "https://www.metacritic.com/tv/supernatural": 3
     },
-    "resharpe": {
+    "user489": {
         "https://www.metacritic.com/tv/the-100": 3
     },
-    "geoffjones": {
+    "user490": {
         "https://www.metacritic.com/tv/the-borgias": 3
     },
-    "alpyne": {
+    "user491": {
         "https://www.metacritic.com/tv/the-expanse": 2,
         "https://www.metacritic.com/tv/the-wire": 3
     },
-    "ffg": {
+    "user492": {
         "https://www.metacritic.com/tv/the-plot-against-america": 2,
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "calligaris": {
+    "user493": {
         "https://www.metacritic.com/tv/the-sopranos": 4
     },
-    "TheBombayBum": {
+    "user494": {
         "https://www.metacritic.com/tv/the-sopranos": 0
     },
-    "losnively": {
+    "user495": {
         "https://www.metacritic.com/tv/the-west-wing": 4
     },
-    "_vasug": {
+    "user496": {
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "arekdreyer": {
+    "user497": {
         "https://www.metacritic.com/tv/the-wire": 3
     },
-    "artixan": {
+    "user498": {
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "benfysh": {
+    "user499": {
         "https://www.metacritic.com/tv/the-wire": 3
     },
-    "bottomlessmug": {
+    "user500": {
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "dfcoleQGator": {
+    "user501": {
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "raiderrobert": {
+    "user502": {
         "https://www.metacritic.com/tv/the-wire": 2
     },
-    "silas_ftw": {
+    "user503": {
         "https://www.metacritic.com/tv/the-wire": 4
     },
-    "joely": {
+    "user504": {
         "https://www.metacritic.com/tv/true-detective": 4
     },
-    "maikovich": {
+    "user505": {
         "https://www.metacritic.com/tv/vikings": 4
     },
-    "sabre23t": {
+    "user506": {
         "https://www.metacritic.com/tv/westworld": 3
     }
 }
