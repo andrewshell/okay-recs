@@ -3,24 +3,21 @@
   "version": "0.1.0",
   "description": "An okay way to find user recommendations and similar users",
   "main": "index.js",
-  "directories": {
-    "example": "example"
-  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andrewshell/bingerec.git"
+    "url": "git+https://github.com/andrewshell/okay-recs.git"
   },
   "keywords": [
-    "\"recommendation",
-    "engine\""
+    "recommendation",
+    "engine"
   ],
   "author": "Andrew Shell <andrew@andrewshell.org>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/andrewshell/bingerec/issues"
+    "url": "https://github.com/andrewshell/okay-recs/issues"
   },
-  "homepage": "https://github.com/andrewshell/bingerec#readme"
+  "homepage": "https://github.com/andrewshell/okay-recs#readme"
 }
